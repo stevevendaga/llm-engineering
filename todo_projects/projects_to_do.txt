@@ -1,1 +1,4 @@
 1. Develop an AI assistant for CIHP for Job Aids, SOP, NMRS troubleshooting tips, best practices 
+    - Create interface to upload resources to database
+    - FASTAPI to return results from database
+    - AI chatinterface
