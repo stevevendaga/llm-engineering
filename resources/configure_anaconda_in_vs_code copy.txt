@@ -1,0 +1,62 @@
+How to use both Anaconda and VS Code for LLM project
+ Open Ananconda Powershell Prompt or Anaconda Prompt
+ Navigate to the project directory (Cd ...)
+	Create environment
+conda create --name llm-engineer python=3.12
+conda activate llm-engineer
+
+	Install packages
+Use environment.yml (Recommended for Conda + Pip combo)
+Create a file named environment.yml in your project folder
+pip included under dependencies so that pip install works inside the conda environment.
+
+name: llm-engineer #name of conda environment
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  # Conda packages
+  - python=3.12
+  - jupyter
+  - numpy
+  - pandas
+
+  # Other conda packages (optional)
+  - pip
+
+  # Pip-installed packages (inside conda env)
+  - pip:
+    - torch
+    - transformers
+    - accelerate
+    - langchain
+    - openai
+    - tiktoken
+    - datasets
+
+	Install All Packages at Once
+Run this in your terminal:
+conda env create -f environment.yml
+
+For new added packages
+# Update the environment with the new packages
+conda env update -f environment.yml
+
+
+This creates an environment called llm-engineer with all packages installed.
+First time? You might see: EnvironmentNameExistsError — delete old one first:
+conda env remove -n llm-engineer
+
+Update Environment Later?
+conda env update -f environment.yml –prune
+(--prune removes packages no longer in the file)
+
+	Register kernel for VS Code
+python -m ipykernel install --user --name llm-engineer --display-name "LLM Engineer"
+
+	Start coding in VS Code
+code .
+
+	Install Python and Jupyter extensions in VS Code
+
+	Create a .ipynb file, open the file. Locate Select Kernel and then select LLM Engineer

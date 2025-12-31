@@ -1,0 +1,25 @@
+name: llm-engineer #name of conda environment
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  # Conda packages
+  - python=3.12
+  - jupyter
+  - numpy
+  - pandas
+
+  # Always include pip in conda env when using pip packages
+  - pip
+
+  # Now list pip packages under 'pip:' key
+  - pip:
+      - openai
+      - jupyterlab # Optional: nicer Jupyter UI
+      - dotenv
+      - ipykernel
+      - gradio
+      - diffusers
+      - torch
+      - torchvision 
+      - torchaudio

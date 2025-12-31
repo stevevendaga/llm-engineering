@@ -1,0 +1,125 @@
+openrouter.ai
+model GLM 4.7
+usage: 
+response = openrouter.chat.completions.create(model="z-ai/glm-4.7", messages=[{"role": "user", "content": "Tell a joke about cats."}])
+
+Abstraction layers
+Langchain vs LiteLLM
+
+Langchain: 
+- Langchain is a popular library for building AI applications.
+ It provides a high-level interface for working with LLMs, making it easier to use and more accessible for developers. 
+ Langchain supports a variety of LLMs, including OpenAI, Hugging Face, and Cohere. It also provides a variety of tools for working with LLMs, 
+ such as prompt engineering, data preprocessing, and evaluation. Langchain is a good choice for building applications that require a high level of abstraction.
+
+Usage
+from langchain_openai import ChatOpenAI
+
+llm =ChatOpenAI(model="gpt-5-mini")
+response=llm.invoke(tell_a_joke)
+display(Markdown(response))
+
+LiteLLM  is a lightweight LLM library that supports a variety of LLMs, including OpenAI, Hugging Face, and Cohere.
+It also provides a variety of tools for working with LLMs, such as prompt engineering, data preprocessing, and evaluation.
+
+Usage
+from litellm import completion
+response = completion(model="openai/gpt-4.1", messages=[{"role": "user", "content": "tell_a_joke"}])
+display(Markdown(response))
+
+Gemini
+gemini/gemini-2.5-flash-lite
+
+Research prompt caching
+
+Gradio from HuggingFace
+Building UIs with Gradio
+Gradio is an open-source Python library that allows you to build UIs for your machine learning models. 
+It's designed to be easy to use and integrate into your existing projects.
+
+Gradio Resources
+https://www.gradio.app/guides/quickstart
+
+=> Tools
+- Allows frontier model to connect with external functions
+- Richer responses by extending knowledge
+- Ability to carry out actions within the applications
+- Enhanced capabilities, like calculations
+
+Common use cases
+1. fetch data or add knowledge or context
+2. take action, like booking a meeting
+3. perform calculations
+4. modify the UI
+and two other ways to use tools that forms the basis of Agentic AI
+1. a tool can be used to make another call to an LLM
+2. A tool can be used to track a ToDo list and track progress towards a goal
+
+Agents (Agentic AI)
+2 definitions
+-> LLM that controls the workflow
+-> An LLM agent that runs tools in a loop to achieve a goal
+Common features
+-> Memory/persistence
+-> Planning capabilities
+-> Autonomy
+-> LLM orchestration via Tools
+-> Functionality via Tools
+
+Types of Gradio UI
+1. gr.interface is for standard, simple UIs
+2. gr.ChatInterface is for standard Chatbot UIs
+3. gr.Blocks is for custom UIs where you control the components and the callbacks
+
+Hugging Face
+Two parts of hugging Face
+1. Hugging face platform - huggingface.co
+    - Hugging face model hub (open source models of all shapes and sizes)
+    - Hugging face datasets (a treasure trove of datasets)
+    - Hugging face spaces (a platform for building and sharing ML apps)
+        - apps, many built in gradio, including leaderboards
+
+2. Hugging Face Libraries
+- Hugging face has open source libraries and implements open source transformer models using 
+ a. pytorch (most popular)
+ b  tensorflow
+
+Six Hugging face libraries
+1. hub (its a python library that lets you connect to hugging face hub to download the models or datasets from hugging face)
+2. datasets
+3. transformers 
+4. peft (Paremeter Efficient Fine-Tuning)
+5. trl (Transformer Reinforcement Learning)
+6. accelerate (its a python library that lets you train your models on multiple GPUs or TPUs)
+
+Google Colab
+https://colab.research.google.com/
+https://colab.research.google.com/drive/1DjcrYDZldAXKJ08x1uYIVCtItoLPk1Wr?usp=sharing
+
+Code on a powerful GPU box
+- run a Jupyter notebook in the cloud with a powerful runtime
+- collaborate with others
+- integrate with other Google services
+
+Runtimes
+Change runtime type to T4 GPU
+1. CPU based
+2. Lower spec GPU for free or low-cost T4(15GB GPU RAM)
+3. Higher spec GPU for resource intensive runs - A100(40GB)
+
+Setting up Colab with Hugging Face and running a model
+-> Connecting Hugging Face to Colab
+Go to https://huggingface.co/
+-> Click on your profile icon in the top right corner, profile
+-> Click on "Settings"
+-> Access Tokens
+-> Click on "Create new token"
+-> Select Write in Token type
+-> Give it a name and click on "Create token"
+-> Copy the token and paste it in the Colab notebook
+-> In colab, click on secrets, add new secret
+-> Name it HF_TOKEN
+
+Accessing the secret key
+from google.colab import userdata
+userdata.get('secretName') where secretName is HF_TOKEN
