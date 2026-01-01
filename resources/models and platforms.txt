@@ -123,3 +123,19 @@ Go to https://huggingface.co/
 Accessing the secret key
 from google.colab import userdata
 userdata.get('secretName') where secretName is HF_TOKEN
+
+
+Introduction to Hugging Face Pipelines for quick AI inference
+-> The two API level of Hugging Face
+- Pipelines: Higher level APIs to carry out standard tasks incredibly quickly. Pipelines are for simple out-of-the-box inference task.
+ E.g.
+1. Sentiment analysis
+2. Classifier
+3. Named Entity Recognition
+4. Question Answering
+5. Summaring
+6. Translation
+
+- Tokennizers and Models: Lower level APIs to provide the most power and control
+
+Use Pipelines to generate content (text, audio, image)
