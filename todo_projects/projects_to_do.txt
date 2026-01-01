@@ -2,3 +2,4 @@
     - Create interface to upload resources to database
     - FASTAPI to return results from database
     - AI chatinterface
+Use named entity to search for user ask in the db

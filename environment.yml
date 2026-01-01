@@ -23,3 +23,5 @@ dependencies:
       - torch
       - torchvision 
       - torchaudio
+      - diffusers
+      - soundfile
