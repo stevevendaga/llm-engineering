@@ -127,15 +127,22 @@ userdata.get('secretName') where secretName is HF_TOKEN
 
 Introduction to Hugging Face Pipelines for quick AI inference
 -> The two API level of Hugging Face
-- Pipelines: Higher level APIs to carry out standard tasks incredibly quickly. Pipelines are for simple out-of-the-box inference task.
+1. Pipelines: Higher level APIs to carry out standard tasks incredibly quickly. Pipelines are for simple out-of-the-box inference task.
  E.g.
-1. Sentiment analysis
-2. Classifier
-3. Named Entity Recognition
-4. Question Answering
-5. Summaring
-6. Translation
+    1. Sentiment analysis
+    2. Classifier
+    3. Named Entity Recognition
+    4. Question Answering
+    5. Summaring
+    6. Translation
 
-- Tokennizers and Models: Lower level APIs to provide the most power and control
+2. Tokenizers and Models: Lower level APIs to provide the most power and control
 
-Use Pipelines to generate content (text, audio, image)
+Use Pipelines to generate content (text, image, audio)
+Training and inference
+1. Training is when you provide a model with data for it to adapt to get better at a task in the future. it does this by updating its internal settings - the parameters or weights of the model.
+    If you are Training a model that's already had some training, the activity is called fine-tuning.
+2. Inference is when you are working with a model that has already been trained. You are using that model to produce new outputs on new inputs, taking advantage of everthing it learned while it was being trained.
+    Inference is also sometimes referred to as "Execution" or "Running a model".
+    The pipelines API in HuggingFace is only for use for inference - running a model that has already been trained.
+    
