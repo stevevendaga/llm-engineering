@@ -145,4 +145,15 @@ Training and inference
 2. Inference is when you are working with a model that has already been trained. You are using that model to produce new outputs on new inputs, taking advantage of everthing it learned while it was being trained.
     Inference is also sometimes referred to as "Execution" or "Running a model".
     The pipelines API in HuggingFace is only for use for inference - running a model that has already been trained.
-    
+
+Using Pipelines from Hugging Face
+Step 1: Create a pipeline function then call
+
+my_pipeline = pipeline(task, model =xx, device =xx)
+
+device = "cuda" for NVIDIA GPU like T4, mps on a mac
+
+Step 2: Then call it as many times as you want
+
+my_pipeline(input1)
+my_pipeline(input2)
