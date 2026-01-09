@@ -157,3 +157,15 @@ Step 2: Then call it as many times as you want
 
 my_pipeline(input1)
 my_pipeline(input2)
+
+Tokenizers: How LLMs converts text to numbers
+Tokenizers are a bit of code that maps between Text and Tokens for a particular model
+-> Translates between Text, Tokens and IDs with encode() and decode() methods
+-> Contains a dictionary that can include special tokens to signal information to LLM, like start of prompt
+-> Contains special tokens like start of a prompt (number 10 can be configured to indicate the start of a prompt)
+
+The Tokenenizers for key models
+Meta - Llama 3.1
+Microsoft's entrant - Phi
+DeepSeekAI - DeepSeek 3.1
+Leading open-source coding model - Qwen 2.5 Coder
