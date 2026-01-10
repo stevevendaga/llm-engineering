@@ -169,3 +169,7 @@ Meta - Llama 3.1
 Microsoft's entrant - Phi
 DeepSeekAI - DeepSeek 3.1
 Leading open-source coding model - Qwen 2.5 Coder
+
+Tokenizers in action: Encoding and Decoding with Llama3.1
+
+Pytorch is a python library for writing neural networks.
