@@ -6,3 +6,5 @@
 2. Develop a Descript like app for text to speech using own voice
 
 3. Develop a dynamic AI assistant - load data to the model as much as you can then the assistant will be able to answer any question using named entity recognition and other techniques
+
+4. Meeting minutes using open source model Llama
