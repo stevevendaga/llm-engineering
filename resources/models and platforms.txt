@@ -173,3 +173,29 @@ Leading open-source coding model - Qwen 2.5 Coder
 Tokenizers in action: Encoding and Decoding with Llama3.1
 
 Pytorch is a python library for writing neural networks.
+
+=> Choosing the Right LLM for your task 
+Compare the following features of an LLM
+The basics 1
+1. Open-source or closed
+2. Chat/Reasoning/Hybrid
+3. Release date and knowledge cut-off
+4. Paremeters
+5. Training tokens
+6. Context window
+
+The basics 2
+1. Inference cost
+2. Training cost
+3. Build cost
+4. Time to market
+5. Rate limits
+6. Speed
+7. Latency
+8. Licence
+
+=> AI leaderboards
+1. Artificial analysis (artificialanalysis.ai)
+2. Vellum
+3. Scale.com (SEAL leaderboards)
+4. Hugging Face leaderboards
