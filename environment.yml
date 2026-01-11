@@ -21,7 +21,8 @@ dependencies:
       - gradio
       - diffusers
       - torch
-      - torchvision 
+      - torchvision
       - torchaudio
       - diffusers
       - soundfile
+      - ffmpeg
