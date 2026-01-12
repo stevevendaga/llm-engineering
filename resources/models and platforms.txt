@@ -231,4 +231,74 @@ These vectors mathematically represent the 'meaning' of an input
 
 Vector embeddings is simply a set of numbers  that represent a word
 
-+> The big idea behind RAG
+=> The big idea behind RAG
+Question <-> Code <-> Encoder (Encoding LLM)
+Code <-> Vector Datastore
+Code -> LLM
+The question is encoded into a vector by the encoder, which is used to retrieve the most relevant information from the vector datastore.
+Then the retrieved information is passed to the LLM to answer the question.
+
+=> Introduction to Langchain and Vector Databases
+LangChain
+- Open Source framework launched in October 2022
+- Provides a common framework for interfacing with many LLMs
+- LangChain v1 released October 2025 with sifnificant changes
+
+Pros
+- Simplifies the creation of applications using LLMs (eg AI assistants, RAG, summarization)
+- sifnificant adoption in enterprise
+
+Cons
+- As APIs for LLMs have matured, converged and simplified, the need for a unifying framework like LangChain has decreased - particulary with OpenAI endpoins
+- LangChain is a more heavyweight abstraction layer than LiteLLM and others and some of its code can be 'legacy'
+
+=> Breaking documents into chunks with LangChain
+
+=> Encoder Models vs Vector Databases: OpenAI, BERT, Chroma & FAISS
+
+Encoder/Embedding Models
+
+The Encoder Model turns text into a Vector Embedding.
+This is then stored in a Vector Database like Chroma
+
+Encoder Models
+1. word2vec  (2013)
+2. BERT (2018) from google
+
+Modern Embedding Models
+3. OpenAI
+    - text embedding 3 small
+    - text embedding 3 large
+4. Google
+    - gemini-embedding-001
+5. Hugging Face Sentence Transformers
+    - all-MiniLM-L6-v2
+
+=> Use LangChain to load our Knowledge Base
+- Read in the documents in all folders
+- Divide the documents into chunks
+- Store the chunks in a Vector Database
+- Create a Retrieval Chain to query the Vector Database
+
+=> Popular Vectorestores
+Open-Source: Chroma, Qdrant, FAISS (in-memory)
+Paid & scalable: Pinecone, Weaviate, etc
+Mainstream databases (Postgres, MongoDB, Elastic)
+
+=> Creating Vector Stores with Chroma and visualizing embeddings with t-SNE (t-distributed stochastic neighbor embedding)
+=> Vector Visualizations and Comparing Embedding Models
+
+=> Building a Complete RAG pipeline with LangChain and Chroma
+
+Two key abstractions
+1. LLm 
+2. Retrieval
+Many common abstraction like this can be called with invoke()
+
+temperature as a parameter
+temperature is a parameter that controls the randomness of the output. It is a value between 0 and 1, where 0 is deterministic and 1 is completely random. 
+A higher temperature will result in more diverse outputs, while a lower temperature will result in more focused outputs.
+
+=> Building RAG with LangChain: Retriever and LLM Integration
+=> Building Production RAG with Python Modules and Gradio UI
+=> RAG with Conversation History: Building a Gradio UI and Debugging Chunki
