@@ -2,7 +2,9 @@
     - Create interface to upload resources to database
     - FASTAPI to return results from database
     - AI chatinterface
-    Use named entity to search for user ask in the db
+    - Use named entity to search for user ask in the db
+    - Use vector datastore
+
 2. Develop a Descript like app for text to speech using own voice
 
 3. Develop a dynamic AI assistant - load data to the model as much as you can then the assistant will be able to answer any question using named entity recognition and other techniques
