@@ -4,6 +4,8 @@
     - AI chatinterface
     - Use named entity to search for user ask in the db
     - Use vector datastore
+    ->>> RAG is the best choice for this
+    -->>> Project name: CIHP KLM
 
 2. Develop a Descript like app for text to speech using own voice
 
