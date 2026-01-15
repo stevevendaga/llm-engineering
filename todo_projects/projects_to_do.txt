@@ -6,6 +6,7 @@
     - Use vector datastore
     ->>> RAG is the best choice for this
     -->>> Project name: CIHP KLM
+    ->>>> Convert PDF, word docs to Markdown which LLM are good at
 
 2. Develop a Descript like app for text to speech using own voice
 
