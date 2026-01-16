@@ -8,6 +8,8 @@ dependencies:
   - jupyter
   - numpy
   - pandas
+  - scikit-learn
+  - chromadb
 
   # Always include pip in conda env when using pip packages
   - pip
@@ -32,3 +34,4 @@ dependencies:
       - langchain-openai
       - langchain-chroma
       - langchain-community
+      - plotly
