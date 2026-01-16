@@ -34,4 +34,5 @@ dependencies:
       - langchain-openai
       - langchain-chroma
       - langchain-community
+      - langchain_huggingface
       - plotly
