@@ -26,3 +26,9 @@ dependencies:
       - diffusers
       - soundfile
       - ffmpeg
+      - langchain
+      - langchain-core
+      - langchain-text-splitters
+      - langchain-openai
+      - langchain-chroma
+      - langchain-community
