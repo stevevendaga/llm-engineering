@@ -38,3 +38,4 @@ dependencies:
       - plotly
       - transformers
       - sentence-transformers
+      - markitdown

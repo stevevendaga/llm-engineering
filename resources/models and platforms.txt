@@ -302,3 +302,9 @@ A higher temperature will result in more diverse outputs, while a lower temperat
 => Building RAG with LangChain: Retriever and LLM Integration
 => Building Production RAG with Python Modules and Gradio UI
 => RAG with Conversation History: Building a Gradio UI and Debugging Chunki
+
+=>> Convert Documents Into LLM-Ready Markdown
+1. MarkItDown library
+2. Pandoc  library
+
+See materials-python-markitdown for more details.
