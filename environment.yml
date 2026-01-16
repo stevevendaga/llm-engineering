@@ -36,3 +36,5 @@ dependencies:
       - langchain-community
       - langchain_huggingface
       - plotly
+      - transformers
+      - sentence-transformers
