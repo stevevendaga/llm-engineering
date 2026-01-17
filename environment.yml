@@ -1,33 +1,40 @@
-name: llm-engineer #name of conda environment
+name: llm-engineer
 channels:
-  - defaults
   - conda-forge
+  - defaults
 dependencies:
-  # Conda packages
-  - python=3.12
-  - jupyter
+  - python=3.11
+  - pip
+  - python-dotenv
+  - requests
   - numpy
   - pandas
+  - hf-xet==1.1.9
+  - scipy
+  - pytorch
+  - jupyterlab
+  - ipywidgets
+  - matplotlib
   - scikit-learn
   - chromadb
-
-  # Always include pip in conda env when using pip packages
-  - pip
-
-  # Now list pip packages under 'pip:' key
+  - jupyter-dash
+  - pyarrow
   - pip:
+      - beautifulsoup4
+      - plotly
+      - transformers
+      - sentence-transformers
+      - datasets==3.6.0
       - openai
-      - jupyterlab # Optional: nicer Jupyter UI
-      - dotenv
-      - ipykernel
+      - anthropic
+      - google-generativeai
       - gradio
-      - diffusers
-      - torch
-      - torchvision
-      - torchaudio
-      - diffusers
-      - soundfile
-      - ffmpeg
+      - gensim
+      - modal
+      - ollama
+      - psutil
+      - setuptools
+      - speedtest-cli
       - langchain
       - langchain-core
       - langchain-text-splitters
@@ -35,7 +42,9 @@ dependencies:
       - langchain-chroma
       - langchain-community
       - langchain_huggingface
-      - plotly
-      - transformers
-      - sentence-transformers
-      - markitdown
+      - litellm
+      - feedparser
+      - twilio
+      - pydub
+      - protobuf==3.20.2
+      - wandb
