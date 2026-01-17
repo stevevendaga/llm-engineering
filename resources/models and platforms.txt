@@ -310,7 +310,7 @@ A higher temperature will result in more diverse outputs, while a lower temperat
 See materials-python-markitdown for more details.
 
 ==>> 10 RAG Advanced Techniques for optimizing Retrieval-Augmented Generation (RAG) processes. The techniques include:
-
+(Semantic Chunking)
 1. Chunking R&D: Experimenting with chunking strategies.
 2. Encoder R&D: Selecting the best encoder model using a test set.
 3. Improve Prompts: Enhancing general content with current data, context, and history.
