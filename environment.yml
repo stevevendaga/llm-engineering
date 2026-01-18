@@ -48,3 +48,4 @@ dependencies:
       - pydub
       - protobuf==3.20.2
       - wandb
+      - markitdown [all]
