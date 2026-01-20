@@ -1,304 +1,302 @@
 ## Sheet1
-| S/N | Name of Staff | Name- Others | Location | Location2 | Position | Staff\_id | Grant Project | Supervisor | Date of Employment |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Adamu | Michael | Kaduna | Kaduna | Clinical Service Officer Peadiatric and Adolescent | CIHPNG22/050 | IRIS | Austin- Justine Azahaiwe | NaN |
-| 2 | Austin | Justin | Kaduna | Kaduna | Senior Officer, Clinical Services (Adult-ART)/ State Technical Lead | CIHPNG22/282 | IRIS | Sannom Hayab | NaN |
-| 3 | Michael | Adole | Kogi | Lokoja | Senior Strategic Information M&E system & QI Officer | CIHPNG22/171 | IRIS | Bernard Akpa | NaN |
-| 4 | Oluwatosin | Oladokun | Head Office | Head Office | Senior Manager, Clinical Services Peadiatrics & Adolescents | CIHPNG22/021 | IRIS | Francis Ogirima | NaN |
-| 5 | Abiola | Ajibola | Head Office | Head Office | Senior Manager Clinical Services, PMTCT | CIHPNG22/104 | IRIS | Inyang Ayo | NaN |
-| 7 | Stephen | Adamu | Kaduna | Kaduna | Health Informatics Associate | CIHPNG22/223 | IRIS | Joy Agada | NaN |
-| 8 | Osaremwanta | Omokaro | Lagos | Epe | Clinical Services Officer Adult ART/Clinical Lead | CIHPNG22/332 | IRIS | Oluwabunmi Adesanya | NaN |
-| 9 | Akpa | Bernard | Kogi | Lokoja | Associate Director, Program / State Incident Commandants | CIHPNG22/262 | IRIS | Kuku Ibrahim | NaN |
-| 10 | Mbagwu | Akuchi Delight | Lagos | Eti-Osa/Ibeju-Lekki | Nurse Case Associate | CIHPNG22/274 | IRIS | Opeyemi Awujoola | NaN |
-| 11 | Phillips | Abimbola | Head Office | Head Office | Associate Director, Data Management & Strategic Information | CIHPNG22/216 | IRIS | Collins Imarhiagbe | NaN |
-| 12 | David | Barnabas | Head Office | Head Office | Director, Laboratory & Biosafety Services | CIHPNG22/107 | IRIS | Bolanle Oyeledun | NaN |
-| 13 | Yusuf | Samaila | Head Office | Head Office | Deputy Director/Head MSS | CIHPNG22/006 | IRIS | Bolanle Oyeledun | NaN |
-| 14 | Ashie | Mary | Kogi | Anyingba-Kogi | Senior Officer Community Treatment Network Peds and Adolescents | CIHPNG22/174 | IRIS | Lawrencia Inyama | NaN |
-| 15 | Matthew | Obi | Kogi | Lokoja | Subcontract Associate | CIHPNG22/201 | IRIS | Rebecca Adeboyejo | NaN |
-| 16 | Ibrahim | Bello | Kogi | Kogi | Health Informatics Assistant | CIHPNG22/196 | IRIS | Makper Stanley | NaN |
-| 17 | Ogirima | Francis | Head Office | Head Office | Director, Clinical Services | CIHPNG22/004 | IRIS | Bolanle Oyeledun | NaN |
-| 19 | Lawal | Habib | Head Office | Head Office | Facility Maintenance Associate | CIHPNG22/208 | IRIS | Femi Sheleru | NaN |
-| 20 | Umoru | Grace | Head Office | Head Office | Admin Associate | CIHPNG22/055 | IRIS | Ojochide Adeleye | NaN |
-| 21 | Charles | Okechukwu | Kogi | Lokoja | Health Informatics Associate | CIHPNG22/197 | IRIS | Isah Omika | NaN |
-| 23 | Sherifat | Igbinedion | Lagos | Mushin-Isolo | Nurse Associate | CIHPNG22/163 | IRIS | Ruth Lawal | NaN |
-| 24 | Osagie | Omokhomion | Head Office | Head Office | Senior Clinical Services Officer Adult ART | CIHPNG23/353 | IRIS | Anthony Onwegbusi | NaN |
-| 25 | Ibanichuka | Rose | Kaduna | Kaduna | Senior Strategic Information- M&E System & QI officer | CIHPNG22/082 | IRIS | Sannom Hayab | NaN |
-| 26 | Prince | Onua | Head Office | Head Office | Clinical Services Associate TBHIV | CIHPNG23/359 | IRIS | Osagie Omokhomion | NaN |
-| 27 | Inaba | Alice Uleko | Head Office | Head Office | Clinical Services Associate PMTCT | CIHPNG23/361 | IRIS | Geoffery Eze | NaN |
-| 29 | Ibrahim | Suleiman | Head Office | Head Office | Associate, Health Informatics, Mobile Development | CIHPNG22/281 | IRIS | David Udanwojo | NaN |
-| 30 | Abbas | Mohammed | Kaduna | Kaduna | Clinical Service Associate Treatment Support | CIHPNG22/292 | IRIS | Joy Agada | NaN |
-| 31 | Nalban | Evelyn | Kogi | Kogi | HTS/Prevention Associate | CIHPNG23/339 | IRIS | Ayeh Godwin | NaN |
-| 32 | Doom | Zaaya | Kaduna | Kaduna | Clinical Services Associate PMTCT, Paediatrics & Adolescents (AP3) | CIHPNG22/297 | IRIS | Austin- Justine Azahaiwe | NaN |
-| 33 | Mathew | Ugber | Kaduna | Kaduna | HTS Associate | CIHPNG23/334 | IRIS | Peter Ochelebe | NaN |
-| 34 | Celina | Cyril Yakubu | Kaduna | Kafanchan | Pharmaceutical Care and Logistics Associate | CIHPNG23/343 | IRIS | Iniobong Usanga | NaN |
-| 35 | Sani | Abel Jonah | Kaduna | Kafanchan | Laboratory Services Associate | CIHPNG23/327 | IRIS | Iniobong Usanga | NaN |
-| 36 | Ayeh | Godwin | Kogi | Lokoja | Prevention Services Officer | CIHPNG23/337 | IRIS | Lawrencia Inyama | NaN |
-| 38 | Onume | Adams | Lagos | Eti-Osa/Ibeju-Lekki | Senior Associate Clinical Services | CIHPNG22/307 | IRIS | Opeyemi Awujoola | NaN |
-| 39 | Opral | Orimogunje | Lagos | Mushin-Isolo | Clinical Services Associate AP3 | CIHPNG22/285 | IRIS | Ruth Lawal | NaN |
-| 40 | Obulezi | Emmanuel Nnamdi | Lagos | Mushin-Isolo | Health Informatics Associate | CIHPNG22/127 | IRIS | Ruth Lawal | NaN |
-| 41 | Idris | Hameed | Head Office | Head Office | Compliance and Risk Management Associate | CIHPNG23/336 | IRIS | Janet Taiwo | NaN |
-| 43 | Goodluck | Agomuo | Lagos | Ikeja Main office | Facility Maintenance Associate | CIHPNG22/305 | IRIS | Femi Sheleru | NaN |
-| 44 | Apev | Keghter Jeremiah | Lagos | Mushin-Isolo | Clinical Services Associate (Clinical Psychologist) | CIHPNG23/320 | IRIS | Ruth Lawal | NaN |
-| 45 | Joshua | Unuayonkhe | Head Office | Head Office | Associate Director, Finance and Subcontracts | CIHPNG22/167 | IRIS | Bolanle Oyeledun | NaN |
-| 46 | Adekunle | Ayuba | Head Office | Head Office | Laboratory Services Manager | CIHPNG22/105 | IRIS | David Barnabas | NaN |
-| 47 | Julius | Ademoyogun | Head Office | Head Office | Laboratory Services Officer | CIHPNG23/330 | IRIS | David Barnabas | NaN |
-| 48 | Unyime | Jumbo | Head Office | Head Office | Laboratory Services Officer-Multi Testing | CIHPNG22/287 | IRIS | David Barnabas | NaN |
-| 49 | Opeyemi | Pitan | Head Office | Head Office | Program Support Associate - CSU | CIHPNG23/317 | IRIS | Ibrahim Kuku | NaN |
-| 50 | Olajumoke | Osunsami | Head Office | Head Office | Senior Associate Sexual Violence Prevention | CIHPNG22/289 | IRIS | Kuku Ibrahim | NaN |
-| 51 | Pamela | Olorunda | Head Office | Head Office | Program Support Associate - CSU | CIHPNG22/299 | IRIS | Ibrahim Kuku | NaN |
-| 52 | Akinola | Ezinne Patience | Head Office | Head Office | Manager, HTS Preventions | CIHPNG22/257 | IRIS | Francis Ogirima | NaN |
-| 56 | Kuku | Ibrahim | Head Office | Head Office | Senior Manager, Pharmaceutical Services | CIHPNG22/020 | IRIS | Francis Ogirima | NaN |
-| 57 | Usman | Audu | Head Office | Head Office | Clinical Services Officer, TB/HIV - Care & Treatment | CIHPNG22/248 | IRIS | Anthony Onwegbusi | NaN |
-| 58 | Damilola | Odugbose | Head Office | Head Office | Senior Clinical Service Associate Pediatrics & Adoloscent | CIHPNG22/151 | IRIS | Oladokun Oluwatosin | NaN |
-| 59 | Ikeoluwa | Abobarin | Head Office | Head Office | Pharmacy & Logistics Officer | CIHPNG22/150 | IRIS | Kuku Ibrahim | NaN |
-| 60 | Geoffery | Eze | Head Office | Head Office | Clinical Services Officer, PMTCT | CIHPNG23/363 | IRIS | Abiola Ajibola | NaN |
-| 61 | Kehinde | Alaho | Head Office | Head Office | Finance Manager | CIHPNG22/109 | IRIS | Joshua Unuayonkhe | NaN |
-| 62 | Ogbonna | Promise | Head Office | Head Office | Senior Finance Associate | CIHPNG22/043 | IRIS | Kehinde Alaho | NaN |
-| 63 | Funsho | Adewunmi | Head Office | Head Office | Finance Assistant | CIHPNG22/249 | IRIS | Kehinde Alaho | NaN |
-| 66 | Osheku | Charles | Head Office | Head Office | Sub-contract Senior Officer | CIHPNG22/073 | IRIS | Tajudeen Sabiu | NaN |
-| 67 | Attaboh | Ajifah | Head Office | Head Office | Senior Subcontract Associate | CIHPNG22/039 | IRIS | Tajudeen Sabiu | NaN |
-| 68 | Adesanya | Oluwaseun | Head Office | Head Office | Store Officer | CIHPNG22/078 | IRIS | Tolulope Ariyo | NaN |
-| 69 | Adedayo | Ogunfowoke | Head Office | Head Office | Supply Chain Assisstant | CIHPNG22/300 | IRIS | Femi Sheleru | NaN |
-| 72 | Kima | Lakoju | Head Office | Head Office | Senior MSS Manager | CIHPNG23/350 | IRIS | Samaila Yusuf | NaN |
-| 73 | Adeleye | Ojochide | Head Office | Head Office | Senior Admin Associate | CIHPNG22/030 | IRIS | Kima Lakoju | NaN |
-| 74 | Edom | Emmanuel | Head Office | Head Office | Office Administrative Assistant | CIHPNG22/095 | IRIS | Ojochide Adeleye | NaN |
-| 75 | Kehinde | Emmanuel | Head Office | Head Office | Admin Clerk | CIHPNG22/283 | IRIS | Ojochide Adeleye | NaN |
-| 76 | Junaid | Adewale | Head Office | Head Office | Head Of Transport and Logistics/Senior Associate | CIHPNG22/008 | IRIS | Samaila Yusuf | NaN |
-| 77 | Adedoyin | Abiodun | Head Office | Head Office | Transport and Logistics Assistant | CIHPNG22/012 | IRIS | Junaid Adewale | NaN |
-| 78 | Ohu | Edwin | Head Office | Head Office | Transport and Logistics Assistant | CIHPNG22/013 | IRIS | Junaid Adewale | NaN |
-| 80 | Onuh | Ojoh | Head Office | Head Office | IT Assistant | CIHPNG22/301 | IRIS | Ayokunumi Orimolade | NaN |
-| 81 | Olufunsho | Sanni | Head Office | Head Office | Senior Manager, Strategic information M&E | CIHPNG22/271 | IRIS | Collins Imarhiagbe | NaN |
-| 82 | Obioma | Azurunwa | Head Office | Head Office | Strategic Information- M&E QI Officer | CIHPNG22/141 | IRIS | Adekogbe Adebola | NaN |
-| 83 | Ureye | Evelyn | Head Office | Head Office | Strategic Information - M & E System &QI Officer | CIHPNG22/111 | IRIS | Sanni Olufunsho | NaN |
-| 84 | Obisesan | Omowunmi | Head Office | Head Office | Strategic Information M & E System &QI Officer | CIHPNG22/110 | IRIS | Sanni Olufunsho | NaN |
-| 85 | Banjoko | Damilare | Head Office | Head Office | Senior Strategic Information Associate Treatment and Services | CIHPNG22/158 | IRIS | Olufunsho Sanni | NaN |
-| 87 | David | Udanwojo | Head Office | Head Office | Senior Manager, Health Informatics | CIHPNG22/269 | IRIS | Collins Imarhiagbe | NaN |
-| 88 | Dimgba | Kalu | Head Office | Head Office | Senior Officer Software Health Development | CIHPNG22/276 | IRIS | David Udanwojo | NaN |
-| 89 | Gbenge | Aondokula | Head Office | Head Office | Senior Associate Health Informatics Mobile App Developer | CIHPNG22/290 | IRIS | David Udanwojo | NaN |
-| 90 | Ukor | Mvamdega | Head Office | Head Office | Senior Associate, Health Informatics Software Development | CIHPNG23/325 | IRIS | David Udanwojo | NaN |
-| 92 | Adebola | Adekogbe | Head Office | Head Office | Senior Strategic Information Manager – Q.I.I.M & Survey | CIHPNG22/194 | IRIS | Abimbola Phillips | NaN |
-| 93 | Desmond | Raymond | Head Office | Head Office | Senior Strategic Information Associate | CIHPNG22/015 | IRIS | Obioma Azurunwa | NaN |
-| 94 | Achebe | Ngozi | Kaduna | Kaduna | Senior Associate LAboratory Services | CIHPNG22/154 | IRIS | Joy Agada | NaN |
-| 95 | Joy | Agada | Kaduna | Kaduna | Senior Pharmacy/ Logistics Associate | CIHPNG22/140 | IRIS | Sannom Hayab | NaN |
-| 96 | Nailatu | Ibrahim | Kaduna | Kaduna | HTS Assistant (AP3-Community Mobilization and Testing) | CIHPNG23/338 | IRIS | Joy Agada | NaN |
-| 97 | Danzaria | Yusuf | Kaduna | Kaduna | Senior Sub Contract Associate | CIHPNG22/040 | IRIS | Jean Udeh | NaN |
-| 98 | Celestina | Iweka | Abuja | Abuja | Senior Associate, Finance & Admin | CIHPNG22/031 | IRIS | Kehinde Alaho | NaN |
-| 99 | Saraki | Hassan | Abuja | Abuja | Finance & Admin Associate | CIHPNG22/016 | IRIS | Kima Lakoju | NaN |
-| 100 | Jerusa | Joseph | Kaduna | Kaduna | Transport and Logistics Assistant | CIHPNG22/100 | IRIS | Jean Udeh | NaN |
-| 101 | Haruna | Gajere | Kogi | Kogi | Transport and Logistics Assistant | CIHPNG22/099 | IRIS | Rebecca Adeboyejo | NaN |
-| 102 | Haruna | Audu | Kogi | Okene | Strategic Information Officer M&E | CIHPNG22/086 | IRIS | Michael Adole | NaN |
-| 103 | Dembo | Victor | Kaduna | Kafanchan | Senior Associate Strategic Information M&E | CIHPNG22/153 | IRIS | Joy Agada | NaN |
-| 104 | Warego | Jatau Timothy | Kaduna | Kaduna | Electronic Medical Record Assistant | CIHPNG22/152 | IRIS | Ernest Dung | NaN |
-| 105 | Sannom | Jessica Hayab | Kaduna | Kaduna | State Program Manager | CIHPNG22/250 | IRIS | Kuku Ibrahim | NaN |
-| 106 | Okon | Itoro | Kaduna | Kaduna | Clinical Services Officer, TB/HIV - Care & Treatment | CIHPNG22/112 | IRIS | Austin- Justine Azahaiwe | NaN |
-| 107 | Lydia | Shija | Kaduna | Kaduna | Clinical Services Associate, PMTCT | CIHPNG22/205 | IRIS | Austin- Justine Azahaiwe | NaN |
-| 108 | Essien | Uwem | Kaduna | Kaduna | Senior Associate, Treatment Support | CIHPNG22/044 | IRIS | Austin- Justine Azahaiwe | NaN |
-| 109 | Ochelebe | Peter | Kaduna | Kaduna | Clinical Services Officer, HCT/Preventions | CIHPNG22/115 | IRIS | Austin- Justine Azahaiwe | NaN |
-| 110 | Udeh | Jean | Kaduna | Kaduna | Finance Officer & Sub contract Officer | CIHPNG22/081 | IRIS | Sannom Hayab | NaN |
-| 111 | Christopher | Abah | Kaduna | Kaduna | Sub Contract Associate | CIHPNG22/041 | IRIS | Jean Udeh | NaN |
-| 112 | Shiga | Adamu | Kaduna | Kaduna | Transport & Logistics Assistant | CIHPNG22/251 | IRIS | Jean Udeh | NaN |
-| 113 | Abdullahi | Ibrahim | Kaduna | Kaduna | Transport & Logistics Assistant | CIHPNG22/252 | IRIS | Jean Udeh | NaN |
-| 114 | Dayom | Bitrus | Kaduna | Kaduna | Transport and Logistics Assistant | CIHPNG22/017 | IRIS | Jean Udeh | NaN |
-| 115 | Agaba | Alex | Kaduna | Kaduna | Transport and Logistics Assistant | CIHPNG22/101 | IRIS | Jean Udeh | NaN |
-| 116 | Nathan | Daniel | Kaduna | Kaduna | Transport & Logistics Assisatant | CIHPNG22/296 | IRIS | Jean Udeh | NaN |
-| 117 | Daniel | Ita Essien | Kaduna | Kaduna | Information Technology Assistant | CIHPNG22/243 | IRIS | Sannom Hayab | NaN |
-| 118 | Ogbonna | Innocent Uche | Kaduna | Kaduna | Strategic Information Assistant | CIHPNG22/237 | IRIS | Ernest Dung | NaN |
-| 120 | Dung | Ernest Innocent | Kaduna | Kaduna | Health Informatics Officer | CIHPNG22/089 | IRIS | Rose Ibanichuka | NaN |
-| 121 | Oke | Olusola | Kaduna | Kaduna | Strategic Information Associate Kaduna | CIHPNG22/102 | IRIS | Ernest Dung | NaN |
-| 122 | Yakubu | Jalo | Kaduna | Kaduna | Strategic Information Assistant | CIHPNG22/195 | IRIS | Ernest Dung | NaN |
-| 123 | Oche | Michael | Kaduna | Kaduna | Strategic Information Assistant | CIHPNG22/222 | IRIS | Ernest Dung | NaN |
-| 124 | Bako | Hosea Avong | Kaduna | Kaduna | Sexual Violence Prevention Assistant | CIHPNG22/242 | IRIS | Sannom Hayab | NaN |
-| 125 | Usanaga | Iniobong Emmauel | Kaduna | Kafanchan | Clinical Services Officer | CIHPNG23/347 | IRIS | Austin- Justine Azahaiwe | NaN |
-| 126 | Patience | Girinya | Kaduna | Kafanchan | HTS Assistant | CIHPNG23/335 | IRIS | Iniobong Usanga | NaN |
-| 127 | Abu | Damaris Tetutu | Kaduna | Kafanchan | Strategic Information Assistant Monitoring and Evaluation | CIHPNG22/326 | IRIS | Iniobong Usanga | NaN |
-| 128 | Silas | Gideon | Kaduna | Kafanchan | Health Informatics Assistant | CIHPNG23/344 | IRIS | Iniobong Usanga | NaN |
-| 129 | Paul | Dyege | Kaduna | Kafanchan | Site Data Support Operative (SDSO) | CIHPNG23/329 | IRIS | Iniobong Usanga | NaN |
-| 130 | Sa'adatu | Musa | Kaduna | Kafanchan | Site Data Support Operative (SDSO) | CIHPNG23/328 | IRIS | Iniobong Usanga | NaN |
-| 131 | Paul | Edegbo | Kaduna | Kafanchan | Finance Associate | CIHPNG23/331 | IRIS | Iniobong Usanga | NaN |
-| 132 | Ameh | Micheal | Kaduna | Kafanchan | Transport & Logistics Assisatant | CIHPNG22/295 | IRIS | Paul Edegbo | NaN |
-| 133 | Inyama | Lawrencia | Kogi | Lokoja | Clinical Services Manager | CIHPNG22/075 | IRIS | Bernard Akpa | NaN |
-| 134 | Idu | Anthony | Abuja | Abuja | Senior Officer, Prevention & Community - HTS Services | CIHPNG22/083 | IRIS | Ezinne Akinola | NaN |
-| 136 | Abidemi | Adewusi | Kogi | Lokoja | Senior Finance Associate | CIHPNG22/117 | IRIS | Bernard Akpa | NaN |
-| 137 | Adamu | Mohammed | Kogi | Lokoja | Transport and Logistics Associate | CIHPNG22/096 | IRIS | Rebecca Adeboyejo | NaN |
-| 138 | Atanda | Abraham | Kogi | Lokoja | Transport and Logistics Assistant | CIHPNG22/018 | IRIS | Rebecca Adeboyejo | NaN |
-| 139 | Abayomi | Ronke | Kogi | Lokoja | Transport/Logistics Assistant | CIHPNG22/056 | IRIS | Rebecca Adeboyejo | NaN |
-| 140 | Ozuruigbo | Emmanuel | Kogi | Lokoja | Transport and Logistics Assistant | CIHPNG22/097 | IRIS | Rebecca Adeboyejo | NaN |
-| 141 | Omika | Isa | Kogi | Lokoja | Health Informatics Officer | CIHPNG22/092 | IRIS | Bernard Akpa | NaN |
-| 142 | Ijiga | Emmanuel | Kogi | Lokoja | Clincal Services Officer Adult ART/Command Lead | CIHPNG23/322 | IRIS | Lawrencia Inyama | NaN |
-| 143 | Makper | Stanley Bassey | Kogi | Ankpa | Clinical Services Officer, Adult ART | CIHPNG23/352 | IRIS | Lawrencia Inyama | NaN |
-| 144 | Amadi | Njideka Beatrice | Kogi | Ankpa | Senior Clinical Services Associate PMTCT | CIHPNG22/229 | IRIS | Lawrencia Inyama | NaN |
-| 145 | Agada | Victoria Ogodo | Kogi | Ankpa | Strategic Information Assistant | CIHPNG22/064 | IRIS | Makper Stanley | NaN |
-| 146 | Emmanuel | Abije | Kogi | Ankpa | HTS Assistant | CIHPNG22/231 | IRIS | Taiwo Orimloye | NaN |
-| 147 | Emmanuel | Kenkwo | Kogi | Ayingba | Clinical Services Oficer | CIHPNG23/377 | IRIS | Lawrencia Inyama | NaN |
-| 148 | Sule | Edibo | Kogi | Ayingba | HTS Assistant | CIHPNG22/232 | IRIS | Makper Stanley | NaN |
-| 149 | Akinyetun | Tolulope | Kogi | Ayingba | Strategic Information Assistant | CIHPNG22/238 | IRIS | Taiwo Orimoloye | NaN |
-| 150 | Isah | Enesi | Kogi | Ayingba | Health Informatics Assistant | CIHPNG22/235 | IRIS | Taiwo Orimoloye | NaN |
-| 151 | Mary | Inajoh Adenike | Kogi | Egbe-Kabba | HTS Assistant | CIHPNG22/233 | IRIS | Kingsley Eneh | NaN |
-| 152 | Yakubu | Olatunde | Kogi | Egbe-Kabba | Health Informatics Assistant | CIHPNG22/279 | IRIS | Kingsley Eneh | NaN |
-| 153 | Paulina | Onalo | Kogi | Idah | Site Data Support Operative (SDSO) | CIHPNG23/324 | IRIS | Kingsley Eneh | NaN |
-| 154 | Busari | Oluwunmi | Kogi | Okene | Strategic Information Assistant | CIHPNG22/239 | IRIS | Kingsley Eneh | NaN |
-| 155 | Abbas | Shuaib | Kogi | Okene | HTS/Prevention Assistant | CIHPNG23/340 | IRIS | Kingsley Eneh | NaN |
-| 156 | Fabian | Ayegba | Kogi | Egbe-Kabba | Health Informatics Assistant | CIHPNG22/234 | IRIS | Kingsley Eneh | NaN |
-| 157 | Lois | Aigbe | Lagos | Ikeja Main office | Pediatrics & Adolescent Associate | CIHPNG22/049 | IRIS | Oluwabunmi Adesanya | NaN |
-| 158 | Omolade | Olubunmi | Lagos | Epe | Senior Officer, Laboratory and Biosafety Services | CIHPNG22/266 | IRIS | Osaremwanta Omokaro | NaN |
-| 159 | Akpodee | Leton | Lagos | Ikeja Main office | Laboratory Services Officer-Multi Testing | CIHPNG22/156 | IRIS | Oluwabunmi Adesanya | NaN |
-| 160 | Oluwasola | Idowu | Lagos | Ikeja Main office | Deputy State Program Manager | CIHPNG22/267 | IRIS | Oluwabunmi Adesanya | NaN |
-| 161 | Chimnoya | Okenu Lukebest | Lagos | Ikeja Main office | Strategic Information Officer | CIHPNG22/118 | IRIS | Idowu Oluwashola | NaN |
-| 162 | Hayes | Abiodun | Lagos | Ikeja Main office | Finance Assistant | CIHPNG22/286 | IRIS | Celestine Akubo | NaN |
-| 163 | Ogunmuyiwa | Adesoye Azeez | Lagos | Ikeja Main office | Store Associate | CIHPNG22/058 | IRIS | Celestine Akubo | NaN |
-| 164 | Ogunkoya | Olufemi | Lagos | Ikeja Main office | Transport and Logistics Assistant | CIHPNG22145 | IRIS | Adewale Elizabeth | NaN |
-| 165 | Sanni | Olarotimi | Lagos | Ikeja Main office | Transport and Logistics Assistant | CIHPNG22/134 | IRIS | Adewale Elizabeth | NaN |
-| 166 | Ayedun | Olushina | Lagos | Ikeja Main office | Transport & Logistics Assistant | CIHPNG22/215 | IRIS | Adewale Elizabeth | NaN |
-| 167 | Christopher | Ikogor | Lagos | Epe | Transport and Logistics Assistant | CIHPNG22/069 | IRIS | Osaremwanta Omokaro | NaN |
-| 168 | Olupitan | Olorunwa Samson | Lagos | Ikeja Main office | IT Officer | CIHPNG22/121 | IRIS | Samaila Yusuf | NaN |
-| 169 | Adesanya | Oluwabunmi | Lagos | Ikeja Main office | State Program Manager | CIHPNG22/123 | IRIS | Francis Ogirima | NaN |
-| 170 | Oshinowo | Abiodun | Lagos | Ikeja Main office | Clinical Services Officer, Pharmaceutical Services | CIHPNG22/034 | IRIS | Oluwabunmi Adesanya | NaN |
-| 171 | Ogunnaike | Adewale | Lagos | Ikeja Main office | Senior Associate Strategic Information - Evaluation & Surveillance | CIHPNG22/060 | IRIS | Oluwashola Idowu | NaN |
-| 172 | Anabraba | Ifeoma | Lagos | Alimosho | Clinical Services Officer | CIHPNG22/218 | IRIS | Oluwabunmi Adesanya | NaN |
-| 173 | Josephine | Eyaba | Lagos | Alimosho | Senior Clinical Services Associate, AP3 | CIHPNG22/244 | IRIS | Patrick Fauga | NaN |
-| 175 | Margareth | Olaiya | Lagos | Alimosho | HTS Associate | CIHPNG22/204 | IRIS | Patrick Fauga | NaN |
-| 176 | Izegbu | Genevieve C | Lagos | Alimosho | Senior Associate Laboratory Services | CIHPNG22/125 | IRIS | Patrick Fauga | NaN |
-| 177 | Omokhudu | Erica | Lagos | Alimosho | Strategic Information Associate | CIHPNG22/202 | IRIS | Patrick Fauga | NaN |
-| 178 | Abdulqudus | Adekunle Raji | Lagos | Alimosho | Senior Associate SI | CIHPNG22/025 | IRIS | Patrick Fauga | NaN |
-| 179 | Enyinnaya | Okechukwu Paul | Lagos | Alimosho | Program Associate | CIHPNG22/132 | IRIS | Patrick Fauga | NaN |
-| 180 | Olayinka | Abolaji Olumide | Lagos | Alimosho | Transport And Logistics Assistant | CIHPNG22/148 | IRIS | Patrick Fauga | NaN |
-| 181 | Afolabi | Mulikat | Lagos | Ikeja | State Technical Lead | CIHPNG22/203 | IRIS | Oluwabunmi Adesanya | NaN |
-| 182 | Christiana | Inyamah | Lagos | Epe | HTS Associate | CIHPNG22/198 | IRIS | Osaremwanta Omokaro | NaN |
-| 183 | Segun | Aribgbabuwo | Lagos | Epe | Strategic Information Assistant M&E | CIHPNG23/348 | IRIS | Osaremwanta Omokaro | NaN |
-| 184 | Adesanya | Taiwo Emmanuel | Lagos | Eti-Osa/Ibeju-Lekki | HTS Assistant | CIHPNG22/313 | IRIS | Opeyemi Awujoola | NaN |
-| 185 | Omodudu | Opeyemi | Lagos | Eti-Osa/Ibeju-Lekki | Pharmaceutical Service Associate | CIHPNG22/061 | IRIS | Opeyemi Awujoola | NaN |
-| 186 | Olaniyan | Olatunji | Lagos | Eti-Osa/Ibeju-Lekki | Laboratory Service Associate | CIHPNG22/161 | IRIS | Opeyemi Awujoola | NaN |
-| 187 | Albert | Victoria | Lagos | Eti-Osa/Ibeju-Lekki | Laboratory Services Assistant | CIHPNG22/304 | IRIS | Opeyemi Awujoola | NaN |
-| 188 | Opeyemi | Kameel Owolabi | Lagos | Eti-Osa/Ibeju-Lekki | Senior Associate Strategic Information | CIHPNG22/126 | IRIS | Opeyemi Awujoola | NaN |
-| 189 | Ngwoke | Obinna | Lagos | Eti-Osa/Ibeju-Lekki | HI Assistant | CIHPNG23/321 | IRIS | Opeyemi Awujoola | NaN |
-| 190 | Omodele | Raji | Lagos | Ikeja-Ifako | Senior Associate, Community Treatment Network Peds and Adolescents | CIHPNG22/173 | IRIS | Chrisian Etuk | NaN |
-| 191 | Orezimena | Bolomope | Lagos | Ikeja-Ifako | HTS Associate | CIHPNG22/312 | IRIS | Chrisian Etuk | NaN |
-| 192 | Aderibigbe | Temitope | Lagos | Ikeja-Ifako | Pharmacy & Logistics Services Officer | CIHPNG22/260 | IRIS | Chrisian Etuk | NaN |
-| 193 | Ruth | Oluwafunmilayo Lawal | Lagos | Ikeja-Ifako | Senior Associate, Clinical Services - Care & Treatment | CIHPNG22/226 | IRIS | Chrisian Etuk | NaN |
-| 195 | Jimoh | Olawale | Lagos | Ikeja-Ifako | Transport and Logistics Assistant | CIHPNG22/147 | IRIS | Chrisian Etuk | NaN |
-| 196 | Agina | Uchenna | Lagos | Ikeja-Ifako | Health Informatics Assistant | CIHPNG22/228 | IRIS | Chrisian Etuk | NaN |
-| 197 | Ijiga | Innocent | Lagos | Ikeja-Ifako | Officer Strategic Information M&E | CIHPNG22/128 | IRIS | Chrisian Etuk | NaN |
-| 198 | Patrick | Fauga Oluleke | Lagos | Mushin-Isolo | Clinical Services Officer | CIHPNG22/120 | IRIS | Oluwabunmi Adesanya | NaN |
-| 199 | Inyang | Nse-Obong | Lagos | Mushin-Isolo | Pharmacist Assistant | CIHPNG22/346 | IRIS | Patrick Fauga | NaN |
-| 200 | David Kayode | Olufisoye | Lagos | Mushin-Isolo | Transport and Logistics Assistant | CIHPNG22/070 | IRIS | Ruth Lawal | NaN |
-| 201 | Adebisi | Lawal Abdulsamaad | Lagos | Mushin-Isolo | Senior Clinical Service Associate - Adult ART | CIHPNG22/308 | IRIS | Ruth Lawal | NaN |
-| 202 | Adedokun | Adekola | Lagos | Mushin-Isolo | Senior Clinical Service Associate - Adult ART | CIHPNG22/309 | IRIS | Ruth Lawal | NaN |
-| 203 | Immaculate | Ohagudo | Lagos | Mushin-Isolo | Senior Lab Services Associate | CIHPNG22/200 | IRIS | Ruth Lawal | NaN |
-| 204 | Akaeze | Stella | Lagos | Mushin-Isolo | Laboratory Services Assistant | CIHPNG22/310 | IRIS | Ruth Lawal | NaN |
-| 206 | Adewunmi | Oluwaseun | Lagos | Mushin-Isolo | Transport/Logistics Assistant, | CIHPNG22/063 | IRIS | Ruth Lawal | NaN |
-| 207 | Rufai | Constance | Lagos | Mushin-Isolo | Senior Assocaite Strategic Information | CIHPNG22/144 | IRIS | Ruth Lawal | NaN |
-| 208 | Adegbite | Adekunle | Lagos | Mushin-Isolo | Strategic Information Assistant Monitoring & Evaluation | CIHPNG23/349 | IRIS | Ruth Lawal | NaN |
-| 209 | Temipeju | Odebunmi | Head Office | Head Office | Senior Associate, Community Treatment Network Peds and Adolescents | CIHPNG22/302 | IRIS | Oluwatosin Oladokun | NaN |
-| 210 | Kayadi | Sandra Thomas | Kaduna | Kaduna | Laboratory Service Officer | CIHPNG22/007 | IRIS | Sannom Hayab | NaN |
-| 211 | Adebayo | Oladapo Benjamin | Kaduna | Kaduna | Transport and Logistics Assistant | CIHPNG22/175 | IRIS | Jean Udeh | NaN |
-| 212 | Ola | Abba | Kaduna | Kaduna | SI Associate | CIHPNG22/062 | IRIS | Rose Ibanichuka | NaN |
-| 213 | Umoh | Nkereuwem Steve | Lagos | Ikeja Main office | Store Clerk | CIHPNG22/193 | IRIS | Ogunmuyiwa Adesoye Azeez | NaN |
-| 214 | Afolabi | Matthew | Lagos | Eti-Osa/Ibeju-Lekki | Transport and Logistics Assistant | CIHPNG22/157 | IRIS | Opeyemi Awujoola | NaN |
-| 215 | Ariyo | Tolulope | Head Office | Head Office | Associate Director Grant Finance Management | CIHPNG22/005 | IRIS | Bolanle Oyeledun | NaN |
-| 216 | Ikani | Samson Ajeka | Kogi | Lokoja | Strategic Information Assistant | CIHPNG22/240 | IRIS | Michael Adole | NaN |
-| 217 | Elizabeth | Adewole | Lagos | Ikeja Main office | Administrative Associate | CIHPNG22/176 | IRIS | Monica Keji | NaN |
-| 218 | Ibrahim | Rekiya | Kaduna | Kaduna | Finance &Administrative Associate | CIHPNG22/057 | IRIS | Jean Udeh | NaN |
-| 219 | Aminu | Jibo | Head Office | Head Office | Finance Assistant | CIHPNG22/268 | IRIS | Joshua Unuayonkhe | NaN |
-| 220 | Omale | Ambrose | Head Office | Head Office | Administrative Assistant | CIHPNG22/258 | IRIS | Kima Lakoju | NaN |
-| 221 | Zekeri | Abel Michael | Kogi | Lokoja | Pharmacy and Logistics Services Officer | CIHPNG22/155 | IRIS | Bernard Akpa | NaN |
-| 222 | Okopi | Sunday | Kaduna | Kaduna | Strategic Information Associate | CIHPNG22/264 | IRIS | Rose Ibanichuka | NaN |
-| 223 | Kayode | Osunsusi | Lagos | Ikeja Main office | Finance Associate | CIHPNG22/189 | IRIS | Celestine Akubo | NaN |
-| 224 | Otelimabia | George Deinma | Lagos | Ikeja Main office | Clinical Service Associate Treatment Support | CIHPNG22/133 | IRIS | Oluwabunmi Adesanya | NaN |
-| 225 | Olorundare | Yemisi Josephine | Lagos | Mushin-Isolo | Senior Pharmaceutical Service Associate | CIHPNG22/168 | IRIS | Ruth Lawal | NaN |
-| 226 | Christian | Etuk | Lagos | Ikeja-Ifako | Senior Clinical Services Associtat - Care & Treatment | CIHPNG22/219 | IRIS | Oluwabunmi Adesanya | NaN |
-| 227 | Oluwatobi | Adebimpe Adegbola | Lagos | Epe | Health Informatics Associate | CIHPNG22/212 | IRIS | Osaremwanta Omokaro | NaN |
-| 228 | Balogun | Oluwole | Head Office | Head Office | Strategic Information Associate Community Treatment Network Peds and Adolescents | CIHPNG23/341 | IRIS | Olufunsho Sani | NaN |
-| 230 | Odutayo | Oladimeji | Kaduna | Kaduna | Senior Strategic Information Associate | CIHPNG22/010 | IRIS | Rose Ibanichuka | NaN |
-| 231 | Ayoola | Oladipupo | Kogi | Lokoja | Senior Associate Strategic Information | CIHPNG22/085 | IRIS | Michael Adole | NaN |
-| 233 | Oklobia | Raphael | Kogi | Lokoja | Senior Associate Strategic Information | CIHPNG22/093 | IRIS | Michael Adole | NaN |
-| 234 | Imarhiagbe | Collins | Head Office | Head Office | Director, Strategic Information | CIHPNG22/002 | IRIS | NaN | NaN |
-| 235 | Gilbert | Okechukwu Ojiakor | Lagos | Ikeja Main office | Officer - Peds& Adolescent Community Network | CIHPNG22/206 | IRIS | Oluwabunmi Adesanya | NaN |
-| 236 | Azeez | Olusanya | Lagos | Ikeja Main office | Finance Clerk | CIHPNG22/210 | IRIS | Celestine Akubo | NaN |
-| 237 | Onugha | Kenneth | Head Office | Head Office | Senior Associate System Analyst | CIHPNG22/023 | IRIS | David Udanwoju | NaN |
-| 238 | Saminu | Idris | Head Office | Head Office | Human Resources Associate | CIHPNG22/067 | IRIS | Arubi Hope | NaN |
-| 239 | Tamuno | Fortune Luke | Kogi | Lokoja | Sexual Violence Prevention Assistant | CIHPNG22/220 | IRIS | Lawrencia Inyama | NaN |
-| 240 | Oluwaseun | Aliyu Oseni | Lagos | Ikeja Main office | Information Technology Associate | CIHPNG22/122 | IRIS | Samson Olupitan | NaN |
-| 241 | Isiuwa | Ikhinmwin | Lagos | Eti-Osa/Ibeju-Lekki | Clinical Services Assistant, PMTCT | CIHPNG22/187 | IRIS | Opeyemi Awujoola | NaN |
-| 242 | Sabiu | Tajudeen | Head Office | Head Office | Senior Manager, Subcontract | CIHPNG22/028 | IRIS | Bolanle Oyeledun | NaN |
-| 243 | Aisha | Sule | Lagos | Ikeja Main office | Sexual Violence PreventionAssociate | CIHPNG22/199 | IRIS | Oluwabunmi Adesanya | NaN |
-| 244 | Seriki | Oluwafemi Joseph | Head Office | Head Office | Health Informatics Associate Data And System Analyst | CIHPNG22/042 | IRIS | Dimgba Kalu | NaN |
-| 245 | Ugbede | Atawodi | Head Office | Head Office | Store Assistant | CIHPNG22/172 | IRIS | Oluwaseun Adesanya | NaN |
-| 246 | Emenogu | Chinyere | Head Office | Head Office | Laboratory Services Officer | CIHPNG22/137 | IRIS | David Barnabas | NaN |
-| 247 | Akpofure | Oyakhilomen Blessing | Lagos | Mushin-Isolo | Senior Associate HTS | CIHPNG22/169 | IRIS | Ruth Lawal | NaN |
-| 248 | Akubo | Celestine | Lagos | Ikeja Main office | Finance & Subcontract Operation Officer | CIHPNG22/130 | IRIS | Oluwabunmi Adesanya | NaN |
-| 249 | Onwuegbusi | Anthony | Head office | Head office | Senior Manager, Adult ART & AHD | CIHPNG22/022 | IRIS | Inyang Ayo | NaN |
-| 250 | Sampson | Mary-Joy | Head Office | Head Office | Senior Grants/Adminstrative Associate | CIHPNG22/291 | IRIS | Bolanle Oyeledun | NaN |
-| 251 | Joseph-Andrews | Idala | Head Office | Head Office | Senior Associate HTS | CIHPNG22/098 | IRIS | Ezinne Akinola | NaN |
-| 252 | Awujoola | Opeyemi | Lagos | Ikeja Main office | Clinical Services Officer, Adult-ART | CIHPNG22/124 | IRIS | Oluwabunmi Adesanya | NaN |
-| 253 | Femi | Sheleru | Head Office | Head Office | Manager, Supply Chain Manager | CIHPNG22/136 | IRIS | Samaila Yusuf | NaN |
-| 254 | Hope | Arubi | Head Office | Head Office | Senior Human Resources Associate | CIHPNG22/068 | IRIS | Kima Lakoju | NaN |
-| 255 | Ahmed | Mohammed | Kogi | Lokoja | Information Technology Assistant | CIHPNG22/179 | IRIS | Bernard Akpa | NaN |
-| 256 | Frank | Eke | Lagos | Mushin-Isolo | Strategic Information Associate | CIHPNG22/036 | IRIS | Ruth Lawal | NaN |
-| 257 | Edogbanya | David | Kogi | Okene | Clinical Service Associate, PMTCT | CIHPNG22/253 | IRIS | Kingsley Eneh | NaN |
-| 258 | Adeiza | Jacob | Lagos | Ikeja Main office | Strategic Information M&E Assistant | CIHPNG22/181 | IRIS | Oluwashola Idowu | NaN |
-| 260 | Taiwo | Janet | Head Office | Head Office | Manager, Compliance and Risk Management | CIHPNG22/108 | IRIS | Janet | NaN |
-| 261 | Omolola | Thomas Bukola | Kaduna | Kaduna | Pharmacy Logistics Officer | CIHPNG22/211 | IRIS | Sannom Hayab | NaN |
-| 262 | Andrew | Sampson Udofia | Lagos | Lagos,Ikeja | Senior Associate Strategic Information | CIHPNG22/053 | IRIS | Idowu Oluwashola | NaN |
-| 263 | Evare | Peter Ozah | Lagos | Ifako Command, Lagos | Laboratory Services Associate | CIHPNG23/357 | IRIS | Christian Etuk | NaN |
-| 264 | Juliana | Mohammed | Kaduna | Kaduna | Treatment Support Associate | CIHPNG23/356 | IRIS | Uwem Essien | NaN |
-| 265 | Mesagan | Funmilayo Blessing | Lagos | Mushin CSCC, Lagos | Pharmacy Clerk | CIHPNG23/358 | IRIS | Adebisi Lawal | NaN |
-| 266 | Adeyemo | Olugbenga | Lagos | Alimosho Command, Lagos | SI Assistant | CIHPNG23/360 | IRIS | Idowu Oluwashola | NaN |
-| 267 | Ibukunoluwa | Iyanuoluwa Kuyinu | Lagos | Ikeja Main Office | Clinical Services Associate, Adult-ART | CIHPNG24/383 | IRIS | Adesanya Oluwabunmi | NaN |
-| 268 | Henrietta | Amauche Nwagu | Kaduna | Kaduna | Lab Service Associate | CIHPNG24/397 | IRIS | Sandra Thomas | NaN |
-| 269 | Ayokunumi | Orimolade | Abuja | Abuja | IT Associate | CIHPNG23/365 | IRIS | Adedji Adedayo | NaN |
-| 270 | Tersoo | Solomo Igbadoo | Abuja | Abuja | Store Clerk | CIHPNG23/366 | IRIS | Oluwaseun Adesanya | NaN |
-| 271 | Monica | Olubunmi Keji-Ayodeji | Lagos | Lagos | Senior Finance Associate | CIHPNG24/373 | GANC | Celestine Akubo | NaN |
-| 272 | Aya | Gberikon | Abuja | Abuja | Human Resources Assistant | CIHPNG24/372 | IRIS | Arubi Hope | NaN |
-| 273 | Joseph | Oche Joseph | Abuja | Abuja | Laboratory Services Associate | CIHPNG23/367 | IRIS | David Barnabas | NaN |
-| 274 | Agnes | Edoka | Abuja | Abuja | Human Resource Assistant | CIHPNG24/368 | IRIS | Arubi Hope | NaN |
-| 275 | Akatu | Adikwe | Kaduna | Kaduna | \tClinical Services Associate; Care and Support | CIHPNG24/389 | IRIS | Austin- Justine Azahaiwe | NaN |
-| 276 | Esther | Edet Timothy | Kogi | Kogi | \tClinical Services Associate; Care and Support | CIHPNG24/396 | IRIS | Godwin Ayeh | NaN |
-| 279 | John | Etebe | Kaduna | Kaduna | HTS Associate | CIHPNG24/388 | IRIS | Peter Ochelebe | NaN |
-| 280 | Fatima | Hassan | Abuja | Abuja | Program Assistanr | CIHPNG24/371 | IRIS | Oluwatosin Oladokun | NaN |
-| 281 | Henry | Obikwere | Lagos | Lagos | Clinical Services Associate Treatment Support | CIHPNG24/384 | IRIS | Patrick Fauga | NaN |
-| 282 | Happiness | Akinniranye | Abuja | Abuja | Clinical Services Associate, Adolescents & Young People | CIHPNG24/369 | IRIS | Oluwatosin Oladokun | NaN |
-| 283 | Etini | Ukanide | Kaduna | Kaduna | Laboratory Services Associate | CIHPNG24/387 | IRIS | Sandra Thomas | NaN |
-| 284 | Oluwatobiloba | Adeoye | Lagos | Lagos | Clinical Services Associate, Adult ART | CIHPNG24/382 | IRIS | Christian Etuk | NaN |
-| 285 | Clifford | Modey | Kogi | Ankpa | Clinical Services Associate, PMTCT | CIHPNG24/391 | IRIS | Makper Stanley | NaN |
-| 286 | Hanniel | Beresibo | Abuja | Abuja | Compliance Assistant | CIHPNG24/380 | IRIS | Janet Taiwo | NaN |
-| 287 | Elijah | James Wida | Kaduna | Kaduna | Senior Clinical Services Associate Adult ART | CIHPNG24/390 | IRIS | Austin- Justine Azahaiwe | NaN |
-| 288 | Tersoo | Shadrach Annor | Abuja | Abuja | \tSenior Clinical Services Associate; Care and Support | CIHPNG24/378 | IRIS | Anthony Onwegbusi | NaN |
-| 289 | Miranda | Patrick Maria | Kaduna | Kafanchan | Community Treatment Network Peds and Adolescents | CIHPNG24/392 | IRIS | Iniobong Usanga | NaN |
-| 290 | David | Taiwo Orimoloye | Kogi | Anyigba | Senior Associate Clinical Services Adult ART | CIHPNG24/394 | IRIS | Lawrencia Inyamah | NaN |
-| 291 | Eneh | Kinsley Kelvin | Kogi | Okene | Clinical Services Officer Adult ART | CIHPNG24/393 | IRIS | Lawrencia Inyama | NaN |
-| 292 | Salami | Oluwakemi | Lagos | Alimosho | SI Assistant | CIHPNG24/395 | IRIS | Idowu Oluwashola | NaN |
-| 293 | Chinenye | Adeyemo | Kaduna | Kaduna | Clinical Services Associate - Care & Treatment | CIHPNG24/398 | IRIS | Adamu Micheal | NaN |
-| 294 | Adedokun | Adewale | Lagos | Epe | Program Assistant | CIHPNG/24/422 | IRIS | Osaremwanta Omokaro | NaN |
-| 297 | Peter | Agada | Lagos | Epe | Senior Associate Pharmaceutical Care and Logistics | CIHPNG/24/418 | IRIS | Osaremwanta Omokaro | NaN |
-| 298 | Femi | Lawrence Oyinbo | Lagos | Lagos | Prevention Services Officer | CIHPNG/24/421 | IRIS | Oluwaseun Adesanya | NaN |
-| 299 | Nwanchor | Chinedu | Kogi | Anyigba | Laboratory Services Associate | CIHPNG24/412 | IRIS | Musa Ezekiel | NaN |
-| 300 | Chinedu | Egbogu | Kaduna | Kaduna | Strategic Information Assistant | CIHPNG/24/420 | IRIS | Rose Ibanichuka | NaN |
-| 301 | Michael | Omobhude | Abuja | Abuja | Program Associate - Technical | CIHPNG24/404 | IRIS | Tolulope Ariyo | NaN |
-| 302 | Tionsha | Emmanuel Terna | Abuja | Abuja | Compliance Officer | CIHPNG24/403 | IRIS | Janet Taiwo | NaN |
-| 303 | Olushola | Abimbola | Lagos | Lagos | Front Desk/Administrative Clerk | CIHPNG24/414 | IRIS | Elizabeth Adewole | NaN |
-| 304 | Adedeji | Adedayo | Abuja | Abuja | Senior Associate, Information Technology | CIHPNG24/410 | IRIS | Samaila Yusuf | NaN |
-| 305 | Ufuoma | Akpisheri | Abuja | Abuja | Human Resources Associate | CIHPNG24/405 | IRIS | Arubi Hope | NaN |
-| 306 | Deikola | Kazeem Olalekan | Lagos | Lagos | Compliance Associate | CIHPNG24/408 | IRIS | Oluwaseun Adesanya | NaN |
-| 307 | Yemisi | Bidemi Olaniyan | Abuja | Abuja | Program Assistant Grant | CIHPNG24/406 | IRIS | Michael Omobhude | NaN |
-| 308 | Asema | Muktar | Kogi | Kogi | Compliance Associate | CIHPNG24/409 | IRIS | Bernard Akpa | NaN |
-| 309 | Aliyu | Shehu Usman | Kaduna | Kaduna | Compliance Associate | CIHPNG24/417 | IRIS | Sannom Hayab | NaN |
-| 310 | Nkem | Okere Blessing | Lagos | Lagos | Clinical Services Associate, P & A, PMTCT | CIHPNG24/415 | IRIS | Christian Etuk | NaN |
-| 311 | Osho | Temitayo Adenike | Lagos | Lagos | Program Assistant | CIHPNG24/416 | IRIS | Idowu Oluwashola | NaN |
-| 312 | Amani | Dangyara | Kaduna | Kaduna | SI Assistant | CIHPNG24/407 | IRIS | Joy Agada | NaN |
-| 314 | Inyang | Ayo | Abuja | Abuja | Deputy Director Clinical Services | CIHPNG/24/419 | IRIS | Francis Ogirima | NaN |
-| 315 | Ruth | Yahaya Musa | Kaduna | Kaduna | Senior Clinical Services Officer Care and Treatment | CIHPNG25/432 | IRIS | Austin- Justine Azahaiwe | NaN |
-| 316 | Noel | Ochaba Sani | Kogi | Kogi | Laboratory Services Associate | CIHPNG25/433 | IRIS | Taiwo Orimoloye | NaN |
-| 317 | Gabriel | Onyejemuo | Abuja | Abuja | Pharmacy Associate | CIHPNG24/431 | IRIS | Ikeoluwa Abobarin | NaN |
-| 318 | Jethro | Wunukhen | Kogi | Kogi | Senior Clinical Services Officer Care and Treatment | CIHPNG25/434 | IRIS | Lawrencia Inyama | NaN |
-| 321 | Fajimi | Adekunle | Lagos | Etiosa | Program Assistant | CIHPNG24/437 | IRIS | Opeyemi Awujoola | NaN |
-| 322 | Mbah | Linda | Kogi | Ayingba | Clinical Services Associate - PMTCT | CIHPNG25/438 | IRIS | Taiwo Orimoloye | NaN |
-| 323 | Emmanuel | Usikpo | Lagos | Mushin | Pharmacy Assistant | CIHPNG24/439 | IRIS | Patrick Fauga | NaN |
-| 324 | Adegboro | Segun | Lagos | Ikeja | IT Assistant | CIHPNG24/440 | IRIS | Oluwaseun Oseni | NaN |
-| 325 | Olubusayo | Nkemjika | Lagos | Ikeja | AEARI Project Lead | CIHPNG24/374 | AEARI | Oluwabunmi Adesanya | NaN |
-| 326 | Oluwatoyin | Finnih | Lagos | Ikeja | Senior Associate HSS | CIHPNG24/375 | AEARI | Olubusayo Nkemjika | NaN |
-| 327 | Issac | Adedeji | Lagos | Ikeja | Senior Associate SI M&E | CIHPNG24/376 | AEARI | Olubusayo Nkemjika | NaN |
-| 328 | Precious | Alabi | Lagos | Ikeja | Finance Assisant | CIHPNG24/429 | AEARI | Olubusayo Nkemjika | NaN |
-| 329 | Monica | Keji-Adodeji | Lagos | Ikeja | Senior Finance Associate | CIHPNG24/373 | AEARI | Olubusayo Nkemjika | NaN |
-| 330 | Wilfred | Khotpenan Sikhibis | Lagos | Ikeja | Sexual Violence Prevenion Associate | CIHPNG24/423 | AEARI | Olubusayo Nkemjika | NaN |
-| 331 | Hafsah | Osuwa | Abuja | Abuja | Clinical Services Associate Care & Treatment | CIHPNG24/401 | I4HIV | Osagie Omokhomion | NaN |
-| 332 | Illiya | Maigari | Abuja | Abuja | Program Associate Reseach, M& E& QI | CIHPNG24/411 | I4HIV | Osagie Omokhomion | NaN |
+RECORD: S/N: 1 | Name of Staff: Adamu | Name- Others: Michael | Location: Kaduna | Location2: Kaduna | Position: Clinical Service Officer Peadiatric and Adolescent | Staff\_id: CIHPNG22/050 | Grant Project: IRIS | Supervisor: Austin- Justine Azahaiwe | Date of Employment: NaN
+RECORD: S/N: 2 | Name of Staff: Austin | Name- Others: Justin | Location: Kaduna | Location2: Kaduna | Position: Senior Officer, Clinical Services (Adult-ART)/ State Technical Lead | Staff\_id: CIHPNG22/282 | Grant Project: IRIS | Supervisor: Sannom Hayab | Date of Employment: NaN
+RECORD: S/N: 3 | Name of Staff: Michael | Name- Others: Adole | Location: Kogi | Location2: Lokoja | Position: Senior Strategic Information M&E system & QI Officer | Staff\_id: CIHPNG22/171 | Grant Project: IRIS | Supervisor: Bernard Akpa | Date of Employment: NaN
+RECORD: S/N: 4 | Name of Staff: Oluwatosin | Name- Others: Oladokun | Location: Head Office | Location2: Head Office | Position: Senior Manager, Clinical Services Peadiatrics & Adolescents | Staff\_id: CIHPNG22/021 | Grant Project: IRIS | Supervisor: Francis Ogirima | Date of Employment: NaN
+RECORD: S/N: 5 | Name of Staff: Abiola | Name- Others: Ajibola | Location: Head Office | Location2: Head Office | Position: Senior Manager Clinical Services, PMTCT | Staff\_id: CIHPNG22/104 | Grant Project: IRIS | Supervisor: Inyang Ayo | Date of Employment: NaN
+RECORD: S/N: 7 | Name of Staff: Stephen | Name- Others: Adamu | Location: Kaduna | Location2: Kaduna | Position: Health Informatics Associate | Staff\_id: CIHPNG22/223 | Grant Project: IRIS | Supervisor: Joy Agada | Date of Employment: NaN
+RECORD: S/N: 8 | Name of Staff: Osaremwanta | Name- Others: Omokaro | Location: Lagos | Location2: Epe | Position: Clinical Services Officer Adult ART/Clinical Lead | Staff\_id: CIHPNG22/332 | Grant Project: IRIS | Supervisor: Oluwabunmi Adesanya | Date of Employment: NaN
+RECORD: S/N: 9 | Name of Staff: Akpa | Name- Others: Bernard | Location: Kogi | Location2: Lokoja | Position: Associate Director, Program / State Incident Commandants | Staff\_id: CIHPNG22/262 | Grant Project: IRIS | Supervisor: Kuku Ibrahim | Date of Employment: NaN
+RECORD: S/N: 10 | Name of Staff: Mbagwu | Name- Others: Akuchi Delight | Location: Lagos | Location2: Eti-Osa/Ibeju-Lekki | Position: Nurse Case Associate | Staff\_id: CIHPNG22/274 | Grant Project: IRIS | Supervisor: Opeyemi Awujoola | Date of Employment: NaN
+RECORD: S/N: 11 | Name of Staff: Phillips | Name- Others: Abimbola | Location: Head Office | Location2: Head Office | Position: Associate Director, Data Management & Strategic Information | Staff\_id: CIHPNG22/216 | Grant Project: IRIS | Supervisor: Collins Imarhiagbe | Date of Employment: NaN
+RECORD: S/N: 12 | Name of Staff: David | Name- Others: Barnabas | Location: Head Office | Location2: Head Office | Position: Director, Laboratory & Biosafety Services | Staff\_id: CIHPNG22/107 | Grant Project: IRIS | Supervisor: Bolanle Oyeledun | Date of Employment: NaN
+RECORD: S/N: 13 | Name of Staff: Yusuf | Name- Others: Samaila | Location: Head Office | Location2: Head Office | Position: Deputy Director/Head MSS | Staff\_id: CIHPNG22/006 | Grant Project: IRIS | Supervisor: Bolanle Oyeledun | Date of Employment: NaN
+RECORD: S/N: 14 | Name of Staff: Ashie | Name- Others: Mary | Location: Kogi | Location2: Anyingba-Kogi | Position: Senior Officer Community Treatment Network Peds and Adolescents | Staff\_id: CIHPNG22/174 | Grant Project: IRIS | Supervisor: Lawrencia Inyama | Date of Employment: NaN
+RECORD: S/N: 15 | Name of Staff: Matthew | Name- Others: Obi | Location: Kogi | Location2: Lokoja | Position: Subcontract Associate | Staff\_id: CIHPNG22/201 | Grant Project: IRIS | Supervisor: Rebecca Adeboyejo | Date of Employment: NaN
+RECORD: S/N: 16 | Name of Staff: Ibrahim | Name- Others: Bello | Location: Kogi | Location2: Kogi | Position: Health Informatics Assistant | Staff\_id: CIHPNG22/196 | Grant Project: IRIS | Supervisor: Makper Stanley | Date of Employment: NaN
+RECORD: S/N: 17 | Name of Staff: Ogirima | Name- Others: Francis | Location: Head Office | Location2: Head Office | Position: Director, Clinical Services | Staff\_id: CIHPNG22/004 | Grant Project: IRIS | Supervisor: Bolanle Oyeledun | Date of Employment: NaN
+RECORD: S/N: 19 | Name of Staff: Lawal | Name- Others: Habib | Location: Head Office | Location2: Head Office | Position: Facility Maintenance Associate | Staff\_id: CIHPNG22/208 | Grant Project: IRIS | Supervisor: Femi Sheleru | Date of Employment: NaN
+RECORD: S/N: 20 | Name of Staff: Umoru | Name- Others: Grace | Location: Head Office | Location2: Head Office | Position: Admin Associate | Staff\_id: CIHPNG22/055 | Grant Project: IRIS | Supervisor: Ojochide Adeleye | Date of Employment: NaN
+RECORD: S/N: 21 | Name of Staff: Charles | Name- Others: Okechukwu | Location: Kogi | Location2: Lokoja | Position: Health Informatics Associate | Staff\_id: CIHPNG22/197 | Grant Project: IRIS | Supervisor: Isah Omika | Date of Employment: NaN
+RECORD: S/N: 23 | Name of Staff: Sherifat | Name- Others: Igbinedion | Location: Lagos | Location2: Mushin-Isolo | Position: Nurse Associate | Staff\_id: CIHPNG22/163 | Grant Project: IRIS | Supervisor: Ruth Lawal | Date of Employment: NaN
+RECORD: S/N: 24 | Name of Staff: Osagie | Name- Others: Omokhomion | Location: Head Office | Location2: Head Office | Position: Senior Clinical Services Officer Adult ART | Staff\_id: CIHPNG23/353 | Grant Project: IRIS | Supervisor: Anthony Onwegbusi | Date of Employment: NaN
+RECORD: S/N: 25 | Name of Staff: Ibanichuka | Name- Others: Rose | Location: Kaduna | Location2: Kaduna | Position: Senior Strategic Information- M&E System & QI officer | Staff\_id: CIHPNG22/082 | Grant Project: IRIS | Supervisor: Sannom Hayab | Date of Employment: NaN
+RECORD: S/N: 26 | Name of Staff: Prince | Name- Others: Onua | Location: Head Office | Location2: Head Office | Position: Clinical Services Associate TBHIV | Staff\_id: CIHPNG23/359 | Grant Project: IRIS | Supervisor: Osagie Omokhomion | Date of Employment: NaN
+RECORD: S/N: 27 | Name of Staff: Inaba | Name- Others: Alice Uleko | Location: Head Office | Location2: Head Office | Position: Clinical Services Associate PMTCT | Staff\_id: CIHPNG23/361 | Grant Project: IRIS | Supervisor: Geoffery Eze | Date of Employment: NaN
+RECORD: S/N: 29 | Name of Staff: Ibrahim | Name- Others: Suleiman | Location: Head Office | Location2: Head Office | Position: Associate, Health Informatics, Mobile Development | Staff\_id: CIHPNG22/281 | Grant Project: IRIS | Supervisor: David Udanwojo | Date of Employment: NaN
+RECORD: S/N: 30 | Name of Staff: Abbas | Name- Others: Mohammed | Location: Kaduna | Location2: Kaduna | Position: Clinical Service Associate Treatment Support | Staff\_id: CIHPNG22/292 | Grant Project: IRIS | Supervisor: Joy Agada | Date of Employment: NaN
+RECORD: S/N: 31 | Name of Staff: Nalban | Name- Others: Evelyn | Location: Kogi | Location2: Kogi | Position: HTS/Prevention Associate | Staff\_id: CIHPNG23/339 | Grant Project: IRIS | Supervisor: Ayeh Godwin | Date of Employment: NaN
+RECORD: S/N: 32 | Name of Staff: Doom | Name- Others: Zaaya | Location: Kaduna | Location2: Kaduna | Position: Clinical Services Associate PMTCT, Paediatrics & Adolescents (AP3) | Staff\_id: CIHPNG22/297 | Grant Project: IRIS | Supervisor: Austin- Justine Azahaiwe | Date of Employment: NaN
+RECORD: S/N: 33 | Name of Staff: Mathew | Name- Others: Ugber | Location: Kaduna | Location2: Kaduna | Position: HTS Associate | Staff\_id: CIHPNG23/334 | Grant Project: IRIS | Supervisor: Peter Ochelebe | Date of Employment: NaN
+RECORD: S/N: 34 | Name of Staff: Celina | Name- Others: Cyril Yakubu | Location: Kaduna | Location2: Kafanchan | Position: Pharmaceutical Care and Logistics Associate | Staff\_id: CIHPNG23/343 | Grant Project: IRIS | Supervisor: Iniobong Usanga | Date of Employment: NaN
+RECORD: S/N: 35 | Name of Staff: Sani | Name- Others: Abel Jonah | Location: Kaduna | Location2: Kafanchan | Position: Laboratory Services Associate | Staff\_id: CIHPNG23/327 | Grant Project: IRIS | Supervisor: Iniobong Usanga | Date of Employment: NaN
+RECORD: S/N: 36 | Name of Staff: Ayeh | Name- Others: Godwin | Location: Kogi | Location2: Lokoja | Position: Prevention Services Officer | Staff\_id: CIHPNG23/337 | Grant Project: IRIS | Supervisor: Lawrencia Inyama | Date of Employment: NaN
+RECORD: S/N: 38 | Name of Staff: Onume | Name- Others: Adams | Location: Lagos | Location2: Eti-Osa/Ibeju-Lekki | Position: Senior Associate Clinical Services | Staff\_id: CIHPNG22/307 | Grant Project: IRIS | Supervisor: Opeyemi Awujoola | Date of Employment: NaN
+RECORD: S/N: 39 | Name of Staff: Opral | Name- Others: Orimogunje | Location: Lagos | Location2: Mushin-Isolo | Position: Clinical Services Associate AP3 | Staff\_id: CIHPNG22/285 | Grant Project: IRIS | Supervisor: Ruth Lawal | Date of Employment: NaN
+RECORD: S/N: 40 | Name of Staff: Obulezi | Name- Others: Emmanuel Nnamdi | Location: Lagos | Location2: Mushin-Isolo | Position: Health Informatics Associate | Staff\_id: CIHPNG22/127 | Grant Project: IRIS | Supervisor: Ruth Lawal | Date of Employment: NaN
+RECORD: S/N: 41 | Name of Staff: Idris | Name- Others: Hameed | Location: Head Office | Location2: Head Office | Position: Compliance and Risk Management Associate | Staff\_id: CIHPNG23/336 | Grant Project: IRIS | Supervisor: Janet Taiwo | Date of Employment: NaN
+RECORD: S/N: 43 | Name of Staff: Goodluck | Name- Others: Agomuo | Location: Lagos | Location2: Ikeja Main office | Position: Facility Maintenance Associate | Staff\_id: CIHPNG22/305 | Grant Project: IRIS | Supervisor: Femi Sheleru | Date of Employment: NaN
+RECORD: S/N: 44 | Name of Staff: Apev | Name- Others: Keghter Jeremiah | Location: Lagos | Location2: Mushin-Isolo | Position: Clinical Services Associate (Clinical Psychologist) | Staff\_id: CIHPNG23/320 | Grant Project: IRIS | Supervisor: Ruth Lawal | Date of Employment: NaN
+RECORD: S/N: 45 | Name of Staff: Joshua | Name- Others: Unuayonkhe | Location: Head Office | Location2: Head Office | Position: Associate Director, Finance and Subcontracts | Staff\_id: CIHPNG22/167 | Grant Project: IRIS | Supervisor: Bolanle Oyeledun | Date of Employment: NaN
+RECORD: S/N: 46 | Name of Staff: Adekunle | Name- Others: Ayuba | Location: Head Office | Location2: Head Office | Position: Laboratory Services Manager | Staff\_id: CIHPNG22/105 | Grant Project: IRIS | Supervisor: David Barnabas | Date of Employment: NaN
+RECORD: S/N: 47 | Name of Staff: Julius | Name- Others: Ademoyogun | Location: Head Office | Location2: Head Office | Position: Laboratory Services Officer | Staff\_id: CIHPNG23/330 | Grant Project: IRIS | Supervisor: David Barnabas | Date of Employment: NaN
+RECORD: S/N: 48 | Name of Staff: Unyime | Name- Others: Jumbo | Location: Head Office | Location2: Head Office | Position: Laboratory Services Officer-Multi Testing | Staff\_id: CIHPNG22/287 | Grant Project: IRIS | Supervisor: David Barnabas | Date of Employment: NaN
+RECORD: S/N: 49 | Name of Staff: Opeyemi | Name- Others: Pitan | Location: Head Office | Location2: Head Office | Position: Program Support Associate - CSU | Staff\_id: CIHPNG23/317 | Grant Project: IRIS | Supervisor: Ibrahim Kuku | Date of Employment: NaN
+RECORD: S/N: 50 | Name of Staff: Olajumoke | Name- Others: Osunsami | Location: Head Office | Location2: Head Office | Position: Senior Associate Sexual Violence Prevention | Staff\_id: CIHPNG22/289 | Grant Project: IRIS | Supervisor: Kuku Ibrahim | Date of Employment: NaN
+RECORD: S/N: 51 | Name of Staff: Pamela | Name- Others: Olorunda | Location: Head Office | Location2: Head Office | Position: Program Support Associate - CSU | Staff\_id: CIHPNG22/299 | Grant Project: IRIS | Supervisor: Ibrahim Kuku | Date of Employment: NaN
+RECORD: S/N: 52 | Name of Staff: Akinola | Name- Others: Ezinne Patience | Location: Head Office | Location2: Head Office | Position: Manager, HTS Preventions | Staff\_id: CIHPNG22/257 | Grant Project: IRIS | Supervisor: Francis Ogirima | Date of Employment: NaN
+RECORD: S/N: 56 | Name of Staff: Kuku | Name- Others: Ibrahim | Location: Head Office | Location2: Head Office | Position: Senior Manager, Pharmaceutical Services | Staff\_id: CIHPNG22/020 | Grant Project: IRIS | Supervisor: Francis Ogirima | Date of Employment: NaN
+RECORD: S/N: 57 | Name of Staff: Usman | Name- Others: Audu | Location: Head Office | Location2: Head Office | Position: Clinical Services Officer, TB/HIV - Care & Treatment | Staff\_id: CIHPNG22/248 | Grant Project: IRIS | Supervisor: Anthony Onwegbusi | Date of Employment: NaN
+RECORD: S/N: 58 | Name of Staff: Damilola | Name- Others: Odugbose | Location: Head Office | Location2: Head Office | Position: Senior Clinical Service Associate Pediatrics & Adoloscent | Staff\_id: CIHPNG22/151 | Grant Project: IRIS | Supervisor: Oladokun Oluwatosin | Date of Employment: NaN
+RECORD: S/N: 59 | Name of Staff: Ikeoluwa | Name- Others: Abobarin | Location: Head Office | Location2: Head Office | Position: Pharmacy & Logistics Officer | Staff\_id: CIHPNG22/150 | Grant Project: IRIS | Supervisor: Kuku Ibrahim | Date of Employment: NaN
+RECORD: S/N: 60 | Name of Staff: Geoffery | Name- Others: Eze | Location: Head Office | Location2: Head Office | Position: Clinical Services Officer, PMTCT | Staff\_id: CIHPNG23/363 | Grant Project: IRIS | Supervisor: Abiola Ajibola | Date of Employment: NaN
+RECORD: S/N: 61 | Name of Staff: Kehinde | Name- Others: Alaho | Location: Head Office | Location2: Head Office | Position: Finance Manager | Staff\_id: CIHPNG22/109 | Grant Project: IRIS | Supervisor: Joshua Unuayonkhe | Date of Employment: NaN
+RECORD: S/N: 62 | Name of Staff: Ogbonna | Name- Others: Promise | Location: Head Office | Location2: Head Office | Position: Senior Finance Associate | Staff\_id: CIHPNG22/043 | Grant Project: IRIS | Supervisor: Kehinde Alaho | Date of Employment: NaN
+RECORD: S/N: 63 | Name of Staff: Funsho | Name- Others: Adewunmi | Location: Head Office | Location2: Head Office | Position: Finance Assistant | Staff\_id: CIHPNG22/249 | Grant Project: IRIS | Supervisor: Kehinde Alaho | Date of Employment: NaN
+RECORD: S/N: 66 | Name of Staff: Osheku | Name- Others: Charles | Location: Head Office | Location2: Head Office | Position: Sub-contract Senior Officer | Staff\_id: CIHPNG22/073 | Grant Project: IRIS | Supervisor: Tajudeen Sabiu | Date of Employment: NaN
+RECORD: S/N: 67 | Name of Staff: Attaboh | Name- Others: Ajifah | Location: Head Office | Location2: Head Office | Position: Senior Subcontract Associate | Staff\_id: CIHPNG22/039 | Grant Project: IRIS | Supervisor: Tajudeen Sabiu | Date of Employment: NaN
+RECORD: S/N: 68 | Name of Staff: Adesanya | Name- Others: Oluwaseun | Location: Head Office | Location2: Head Office | Position: Store Officer | Staff\_id: CIHPNG22/078 | Grant Project: IRIS | Supervisor: Tolulope Ariyo | Date of Employment: NaN
+RECORD: S/N: 69 | Name of Staff: Adedayo | Name- Others: Ogunfowoke | Location: Head Office | Location2: Head Office | Position: Supply Chain Assisstant | Staff\_id: CIHPNG22/300 | Grant Project: IRIS | Supervisor: Femi Sheleru | Date of Employment: NaN
+RECORD: S/N: 72 | Name of Staff: Kima | Name- Others: Lakoju | Location: Head Office | Location2: Head Office | Position: Senior MSS Manager | Staff\_id: CIHPNG23/350 | Grant Project: IRIS | Supervisor: Samaila Yusuf | Date of Employment: NaN
+RECORD: S/N: 73 | Name of Staff: Adeleye | Name- Others: Ojochide | Location: Head Office | Location2: Head Office | Position: Senior Admin Associate | Staff\_id: CIHPNG22/030 | Grant Project: IRIS | Supervisor: Kima Lakoju | Date of Employment: NaN
+RECORD: S/N: 74 | Name of Staff: Edom | Name- Others: Emmanuel | Location: Head Office | Location2: Head Office | Position: Office Administrative Assistant | Staff\_id: CIHPNG22/095 | Grant Project: IRIS | Supervisor: Ojochide Adeleye | Date of Employment: NaN
+RECORD: S/N: 75 | Name of Staff: Kehinde | Name- Others: Emmanuel | Location: Head Office | Location2: Head Office | Position: Admin Clerk | Staff\_id: CIHPNG22/283 | Grant Project: IRIS | Supervisor: Ojochide Adeleye | Date of Employment: NaN
+RECORD: S/N: 76 | Name of Staff: Junaid | Name- Others: Adewale | Location: Head Office | Location2: Head Office | Position: Head Of Transport and Logistics/Senior Associate | Staff\_id: CIHPNG22/008 | Grant Project: IRIS | Supervisor: Samaila Yusuf | Date of Employment: NaN
+RECORD: S/N: 77 | Name of Staff: Adedoyin | Name- Others: Abiodun | Location: Head Office | Location2: Head Office | Position: Transport and Logistics Assistant | Staff\_id: CIHPNG22/012 | Grant Project: IRIS | Supervisor: Junaid Adewale | Date of Employment: NaN
+RECORD: S/N: 78 | Name of Staff: Ohu | Name- Others: Edwin | Location: Head Office | Location2: Head Office | Position: Transport and Logistics Assistant | Staff\_id: CIHPNG22/013 | Grant Project: IRIS | Supervisor: Junaid Adewale | Date of Employment: NaN
+RECORD: S/N: 80 | Name of Staff: Onuh | Name- Others: Ojoh | Location: Head Office | Location2: Head Office | Position: IT Assistant | Staff\_id: CIHPNG22/301 | Grant Project: IRIS | Supervisor: Ayokunumi Orimolade | Date of Employment: NaN
+RECORD: S/N: 81 | Name of Staff: Olufunsho | Name- Others: Sanni | Location: Head Office | Location2: Head Office | Position: Senior Manager, Strategic information M&E | Staff\_id: CIHPNG22/271 | Grant Project: IRIS | Supervisor: Collins Imarhiagbe | Date of Employment: NaN
+RECORD: S/N: 82 | Name of Staff: Obioma | Name- Others: Azurunwa | Location: Head Office | Location2: Head Office | Position: Strategic Information- M&E QI Officer | Staff\_id: CIHPNG22/141 | Grant Project: IRIS | Supervisor: Adekogbe Adebola | Date of Employment: NaN
+RECORD: S/N: 83 | Name of Staff: Ureye | Name- Others: Evelyn | Location: Head Office | Location2: Head Office | Position: Strategic Information - M & E System &QI Officer | Staff\_id: CIHPNG22/111 | Grant Project: IRIS | Supervisor: Sanni Olufunsho | Date of Employment: NaN
+RECORD: S/N: 84 | Name of Staff: Obisesan | Name- Others: Omowunmi | Location: Head Office | Location2: Head Office | Position: Strategic Information M & E System &QI Officer | Staff\_id: CIHPNG22/110 | Grant Project: IRIS | Supervisor: Sanni Olufunsho | Date of Employment: NaN
+RECORD: S/N: 85 | Name of Staff: Banjoko | Name- Others: Damilare | Location: Head Office | Location2: Head Office | Position: Senior Strategic Information Associate Treatment and Services | Staff\_id: CIHPNG22/158 | Grant Project: IRIS | Supervisor: Olufunsho Sanni | Date of Employment: NaN
+RECORD: S/N: 87 | Name of Staff: David | Name- Others: Udanwojo | Location: Head Office | Location2: Head Office | Position: Senior Manager, Health Informatics | Staff\_id: CIHPNG22/269 | Grant Project: IRIS | Supervisor: Collins Imarhiagbe | Date of Employment: NaN
+RECORD: S/N: 88 | Name of Staff: Dimgba | Name- Others: Kalu | Location: Head Office | Location2: Head Office | Position: Senior Officer Software Health Development | Staff\_id: CIHPNG22/276 | Grant Project: IRIS | Supervisor: David Udanwojo | Date of Employment: NaN
+RECORD: S/N: 89 | Name of Staff: Gbenge | Name- Others: Aondokula | Location: Head Office | Location2: Head Office | Position: Senior Associate Health Informatics Mobile App Developer | Staff\_id: CIHPNG22/290 | Grant Project: IRIS | Supervisor: David Udanwojo | Date of Employment: NaN
+RECORD: S/N: 90 | Name of Staff: Ukor | Name- Others: Mvamdega | Location: Head Office | Location2: Head Office | Position: Senior Associate, Health Informatics Software Development | Staff\_id: CIHPNG23/325 | Grant Project: IRIS | Supervisor: David Udanwojo | Date of Employment: NaN
+RECORD: S/N: 92 | Name of Staff: Adebola | Name- Others: Adekogbe | Location: Head Office | Location2: Head Office | Position: Senior Strategic Information Manager – Q.I.I.M & Survey | Staff\_id: CIHPNG22/194 | Grant Project: IRIS | Supervisor: Abimbola Phillips | Date of Employment: NaN
+RECORD: S/N: 93 | Name of Staff: Desmond | Name- Others: Raymond | Location: Head Office | Location2: Head Office | Position: Senior Strategic Information Associate | Staff\_id: CIHPNG22/015 | Grant Project: IRIS | Supervisor: Obioma Azurunwa | Date of Employment: NaN
+RECORD: S/N: 94 | Name of Staff: Achebe | Name- Others: Ngozi | Location: Kaduna | Location2: Kaduna | Position: Senior Associate LAboratory Services | Staff\_id: CIHPNG22/154 | Grant Project: IRIS | Supervisor: Joy Agada | Date of Employment: NaN
+RECORD: S/N: 95 | Name of Staff: Joy | Name- Others: Agada | Location: Kaduna | Location2: Kaduna | Position: Senior Pharmacy/ Logistics Associate | Staff\_id: CIHPNG22/140 | Grant Project: IRIS | Supervisor: Sannom Hayab | Date of Employment: NaN
+RECORD: S/N: 96 | Name of Staff: Nailatu | Name- Others: Ibrahim | Location: Kaduna | Location2: Kaduna | Position: HTS Assistant (AP3-Community Mobilization and Testing) | Staff\_id: CIHPNG23/338 | Grant Project: IRIS | Supervisor: Joy Agada | Date of Employment: NaN
+RECORD: S/N: 97 | Name of Staff: Danzaria | Name- Others: Yusuf | Location: Kaduna | Location2: Kaduna | Position: Senior Sub Contract Associate | Staff\_id: CIHPNG22/040 | Grant Project: IRIS | Supervisor: Jean Udeh | Date of Employment: NaN
+RECORD: S/N: 98 | Name of Staff: Celestina | Name- Others: Iweka | Location: Abuja | Location2: Abuja | Position: Senior Associate, Finance & Admin | Staff\_id: CIHPNG22/031 | Grant Project: IRIS | Supervisor: Kehinde Alaho | Date of Employment: NaN
+RECORD: S/N: 99 | Name of Staff: Saraki | Name- Others: Hassan | Location: Abuja | Location2: Abuja | Position: Finance & Admin Associate | Staff\_id: CIHPNG22/016 | Grant Project: IRIS | Supervisor: Kima Lakoju | Date of Employment: NaN
+RECORD: S/N: 100 | Name of Staff: Jerusa | Name- Others: Joseph | Location: Kaduna | Location2: Kaduna | Position: Transport and Logistics Assistant | Staff\_id: CIHPNG22/100 | Grant Project: IRIS | Supervisor: Jean Udeh | Date of Employment: NaN
+RECORD: S/N: 101 | Name of Staff: Haruna | Name- Others: Gajere | Location: Kogi | Location2: Kogi | Position: Transport and Logistics Assistant | Staff\_id: CIHPNG22/099 | Grant Project: IRIS | Supervisor: Rebecca Adeboyejo | Date of Employment: NaN
+RECORD: S/N: 102 | Name of Staff: Haruna | Name- Others: Audu | Location: Kogi | Location2: Okene | Position: Strategic Information Officer M&E | Staff\_id: CIHPNG22/086 | Grant Project: IRIS | Supervisor: Michael Adole | Date of Employment: NaN
+RECORD: S/N: 103 | Name of Staff: Dembo | Name- Others: Victor | Location: Kaduna | Location2: Kafanchan | Position: Senior Associate Strategic Information M&E | Staff\_id: CIHPNG22/153 | Grant Project: IRIS | Supervisor: Joy Agada | Date of Employment: NaN
+RECORD: S/N: 104 | Name of Staff: Warego | Name- Others: Jatau Timothy | Location: Kaduna | Location2: Kaduna | Position: Electronic Medical Record Assistant | Staff\_id: CIHPNG22/152 | Grant Project: IRIS | Supervisor: Ernest Dung | Date of Employment: NaN
+RECORD: S/N: 105 | Name of Staff: Sannom | Name- Others: Jessica Hayab | Location: Kaduna | Location2: Kaduna | Position: State Program Manager | Staff\_id: CIHPNG22/250 | Grant Project: IRIS | Supervisor: Kuku Ibrahim | Date of Employment: NaN
+RECORD: S/N: 106 | Name of Staff: Okon | Name- Others: Itoro | Location: Kaduna | Location2: Kaduna | Position: Clinical Services Officer, TB/HIV - Care & Treatment | Staff\_id: CIHPNG22/112 | Grant Project: IRIS | Supervisor: Austin- Justine Azahaiwe | Date of Employment: NaN
+RECORD: S/N: 107 | Name of Staff: Lydia | Name- Others: Shija | Location: Kaduna | Location2: Kaduna | Position: Clinical Services Associate, PMTCT | Staff\_id: CIHPNG22/205 | Grant Project: IRIS | Supervisor: Austin- Justine Azahaiwe | Date of Employment: NaN
+RECORD: S/N: 108 | Name of Staff: Essien | Name- Others: Uwem | Location: Kaduna | Location2: Kaduna | Position: Senior Associate, Treatment Support | Staff\_id: CIHPNG22/044 | Grant Project: IRIS | Supervisor: Austin- Justine Azahaiwe | Date of Employment: NaN
+RECORD: S/N: 109 | Name of Staff: Ochelebe | Name- Others: Peter | Location: Kaduna | Location2: Kaduna | Position: Clinical Services Officer, HCT/Preventions | Staff\_id: CIHPNG22/115 | Grant Project: IRIS | Supervisor: Austin- Justine Azahaiwe | Date of Employment: NaN
+RECORD: S/N: 110 | Name of Staff: Udeh | Name- Others: Jean | Location: Kaduna | Location2: Kaduna | Position: Finance Officer & Sub contract Officer | Staff\_id: CIHPNG22/081 | Grant Project: IRIS | Supervisor: Sannom Hayab | Date of Employment: NaN
+RECORD: S/N: 111 | Name of Staff: Christopher | Name- Others: Abah | Location: Kaduna | Location2: Kaduna | Position: Sub Contract Associate | Staff\_id: CIHPNG22/041 | Grant Project: IRIS | Supervisor: Jean Udeh | Date of Employment: NaN
+RECORD: S/N: 112 | Name of Staff: Shiga | Name- Others: Adamu | Location: Kaduna | Location2: Kaduna | Position: Transport & Logistics Assistant | Staff\_id: CIHPNG22/251 | Grant Project: IRIS | Supervisor: Jean Udeh | Date of Employment: NaN
+RECORD: S/N: 113 | Name of Staff: Abdullahi | Name- Others: Ibrahim | Location: Kaduna | Location2: Kaduna | Position: Transport & Logistics Assistant | Staff\_id: CIHPNG22/252 | Grant Project: IRIS | Supervisor: Jean Udeh | Date of Employment: NaN
+RECORD: S/N: 114 | Name of Staff: Dayom | Name- Others: Bitrus | Location: Kaduna | Location2: Kaduna | Position: Transport and Logistics Assistant | Staff\_id: CIHPNG22/017 | Grant Project: IRIS | Supervisor: Jean Udeh | Date of Employment: NaN
+RECORD: S/N: 115 | Name of Staff: Agaba | Name- Others: Alex | Location: Kaduna | Location2: Kaduna | Position: Transport and Logistics Assistant | Staff\_id: CIHPNG22/101 | Grant Project: IRIS | Supervisor: Jean Udeh | Date of Employment: NaN
+RECORD: S/N: 116 | Name of Staff: Nathan | Name- Others: Daniel | Location: Kaduna | Location2: Kaduna | Position: Transport & Logistics Assisatant | Staff\_id: CIHPNG22/296 | Grant Project: IRIS | Supervisor: Jean Udeh | Date of Employment: NaN
+RECORD: S/N: 117 | Name of Staff: Daniel | Name- Others: Ita Essien | Location: Kaduna | Location2: Kaduna | Position: Information Technology Assistant | Staff\_id: CIHPNG22/243 | Grant Project: IRIS | Supervisor: Sannom Hayab | Date of Employment: NaN
+RECORD: S/N: 118 | Name of Staff: Ogbonna | Name- Others: Innocent Uche | Location: Kaduna | Location2: Kaduna | Position: Strategic Information Assistant | Staff\_id: CIHPNG22/237 | Grant Project: IRIS | Supervisor: Ernest Dung | Date of Employment: NaN
+RECORD: S/N: 120 | Name of Staff: Dung | Name- Others: Ernest Innocent | Location: Kaduna | Location2: Kaduna | Position: Health Informatics Officer | Staff\_id: CIHPNG22/089 | Grant Project: IRIS | Supervisor: Rose Ibanichuka | Date of Employment: NaN
+RECORD: S/N: 121 | Name of Staff: Oke | Name- Others: Olusola | Location: Kaduna | Location2: Kaduna | Position: Strategic Information Associate Kaduna | Staff\_id: CIHPNG22/102 | Grant Project: IRIS | Supervisor: Ernest Dung | Date of Employment: NaN
+RECORD: S/N: 122 | Name of Staff: Yakubu | Name- Others: Jalo | Location: Kaduna | Location2: Kaduna | Position: Strategic Information Assistant | Staff\_id: CIHPNG22/195 | Grant Project: IRIS | Supervisor: Ernest Dung | Date of Employment: NaN
+RECORD: S/N: 123 | Name of Staff: Oche | Name- Others: Michael | Location: Kaduna | Location2: Kaduna | Position: Strategic Information Assistant | Staff\_id: CIHPNG22/222 | Grant Project: IRIS | Supervisor: Ernest Dung | Date of Employment: NaN
+RECORD: S/N: 124 | Name of Staff: Bako | Name- Others: Hosea Avong | Location: Kaduna | Location2: Kaduna | Position: Sexual Violence Prevention Assistant | Staff\_id: CIHPNG22/242 | Grant Project: IRIS | Supervisor: Sannom Hayab | Date of Employment: NaN
+RECORD: S/N: 125 | Name of Staff: Usanaga | Name- Others: Iniobong Emmauel | Location: Kaduna | Location2: Kafanchan | Position: Clinical Services Officer | Staff\_id: CIHPNG23/347 | Grant Project: IRIS | Supervisor: Austin- Justine Azahaiwe | Date of Employment: NaN
+RECORD: S/N: 126 | Name of Staff: Patience | Name- Others: Girinya | Location: Kaduna | Location2: Kafanchan | Position: HTS Assistant | Staff\_id: CIHPNG23/335 | Grant Project: IRIS | Supervisor: Iniobong Usanga | Date of Employment: NaN
+RECORD: S/N: 127 | Name of Staff: Abu | Name- Others: Damaris Tetutu | Location: Kaduna | Location2: Kafanchan | Position: Strategic Information Assistant Monitoring and Evaluation | Staff\_id: CIHPNG22/326 | Grant Project: IRIS | Supervisor: Iniobong Usanga | Date of Employment: NaN
+RECORD: S/N: 128 | Name of Staff: Silas | Name- Others: Gideon | Location: Kaduna | Location2: Kafanchan | Position: Health Informatics Assistant | Staff\_id: CIHPNG23/344 | Grant Project: IRIS | Supervisor: Iniobong Usanga | Date of Employment: NaN
+RECORD: S/N: 129 | Name of Staff: Paul | Name- Others: Dyege | Location: Kaduna | Location2: Kafanchan | Position: Site Data Support Operative (SDSO) | Staff\_id: CIHPNG23/329 | Grant Project: IRIS | Supervisor: Iniobong Usanga | Date of Employment: NaN
+RECORD: S/N: 130 | Name of Staff: Sa'adatu | Name- Others: Musa | Location: Kaduna | Location2: Kafanchan | Position: Site Data Support Operative (SDSO) | Staff\_id: CIHPNG23/328 | Grant Project: IRIS | Supervisor: Iniobong Usanga | Date of Employment: NaN
+RECORD: S/N: 131 | Name of Staff: Paul | Name- Others: Edegbo | Location: Kaduna | Location2: Kafanchan | Position: Finance Associate | Staff\_id: CIHPNG23/331 | Grant Project: IRIS | Supervisor: Iniobong Usanga | Date of Employment: NaN
+RECORD: S/N: 132 | Name of Staff: Ameh | Name- Others: Micheal | Location: Kaduna | Location2: Kafanchan | Position: Transport & Logistics Assisatant | Staff\_id: CIHPNG22/295 | Grant Project: IRIS | Supervisor: Paul Edegbo | Date of Employment: NaN
+RECORD: S/N: 133 | Name of Staff: Inyama | Name- Others: Lawrencia | Location: Kogi | Location2: Lokoja | Position: Clinical Services Manager | Staff\_id: CIHPNG22/075 | Grant Project: IRIS | Supervisor: Bernard Akpa | Date of Employment: NaN
+RECORD: S/N: 134 | Name of Staff: Idu | Name- Others: Anthony | Location: Abuja | Location2: Abuja | Position: Senior Officer, Prevention & Community - HTS Services | Staff\_id: CIHPNG22/083 | Grant Project: IRIS | Supervisor: Ezinne Akinola | Date of Employment: NaN
+RECORD: S/N: 136 | Name of Staff: Abidemi | Name- Others: Adewusi | Location: Kogi | Location2: Lokoja | Position: Senior Finance Associate | Staff\_id: CIHPNG22/117 | Grant Project: IRIS | Supervisor: Bernard Akpa | Date of Employment: NaN
+RECORD: S/N: 137 | Name of Staff: Adamu | Name- Others: Mohammed | Location: Kogi | Location2: Lokoja | Position: Transport and Logistics Associate | Staff\_id: CIHPNG22/096 | Grant Project: IRIS | Supervisor: Rebecca Adeboyejo | Date of Employment: NaN
+RECORD: S/N: 138 | Name of Staff: Atanda | Name- Others: Abraham | Location: Kogi | Location2: Lokoja | Position: Transport and Logistics Assistant | Staff\_id: CIHPNG22/018 | Grant Project: IRIS | Supervisor: Rebecca Adeboyejo | Date of Employment: NaN
+RECORD: S/N: 139 | Name of Staff: Abayomi | Name- Others: Ronke | Location: Kogi | Location2: Lokoja | Position: Transport/Logistics Assistant | Staff\_id: CIHPNG22/056 | Grant Project: IRIS | Supervisor: Rebecca Adeboyejo | Date of Employment: NaN
+RECORD: S/N: 140 | Name of Staff: Ozuruigbo | Name- Others: Emmanuel | Location: Kogi | Location2: Lokoja | Position: Transport and Logistics Assistant | Staff\_id: CIHPNG22/097 | Grant Project: IRIS | Supervisor: Rebecca Adeboyejo | Date of Employment: NaN
+RECORD: S/N: 141 | Name of Staff: Omika | Name- Others: Isa | Location: Kogi | Location2: Lokoja | Position: Health Informatics Officer | Staff\_id: CIHPNG22/092 | Grant Project: IRIS | Supervisor: Bernard Akpa | Date of Employment: NaN
+RECORD: S/N: 142 | Name of Staff: Ijiga | Name- Others: Emmanuel | Location: Kogi | Location2: Lokoja | Position: Clincal Services Officer Adult ART/Command Lead | Staff\_id: CIHPNG23/322 | Grant Project: IRIS | Supervisor: Lawrencia Inyama | Date of Employment: NaN
+RECORD: S/N: 143 | Name of Staff: Makper | Name- Others: Stanley Bassey | Location: Kogi | Location2: Ankpa | Position: Clinical Services Officer, Adult ART | Staff\_id: CIHPNG23/352 | Grant Project: IRIS | Supervisor: Lawrencia Inyama | Date of Employment: NaN
+RECORD: S/N: 144 | Name of Staff: Amadi | Name- Others: Njideka Beatrice | Location: Kogi | Location2: Ankpa | Position: Senior Clinical Services Associate PMTCT | Staff\_id: CIHPNG22/229 | Grant Project: IRIS | Supervisor: Lawrencia Inyama | Date of Employment: NaN
+RECORD: S/N: 145 | Name of Staff: Agada | Name- Others: Victoria Ogodo | Location: Kogi | Location2: Ankpa | Position: Strategic Information Assistant | Staff\_id: CIHPNG22/064 | Grant Project: IRIS | Supervisor: Makper Stanley | Date of Employment: NaN
+RECORD: S/N: 146 | Name of Staff: Emmanuel | Name- Others: Abije | Location: Kogi | Location2: Ankpa | Position: HTS Assistant | Staff\_id: CIHPNG22/231 | Grant Project: IRIS | Supervisor: Taiwo Orimloye | Date of Employment: NaN
+RECORD: S/N: 147 | Name of Staff: Emmanuel | Name- Others: Kenkwo | Location: Kogi | Location2: Ayingba | Position: Clinical Services Oficer | Staff\_id: CIHPNG23/377 | Grant Project: IRIS | Supervisor: Lawrencia Inyama | Date of Employment: NaN
+RECORD: S/N: 148 | Name of Staff: Sule | Name- Others: Edibo | Location: Kogi | Location2: Ayingba | Position: HTS Assistant | Staff\_id: CIHPNG22/232 | Grant Project: IRIS | Supervisor: Makper Stanley | Date of Employment: NaN
+RECORD: S/N: 149 | Name of Staff: Akinyetun | Name- Others: Tolulope | Location: Kogi | Location2: Ayingba | Position: Strategic Information Assistant | Staff\_id: CIHPNG22/238 | Grant Project: IRIS | Supervisor: Taiwo Orimoloye | Date of Employment: NaN
+RECORD: S/N: 150 | Name of Staff: Isah | Name- Others: Enesi | Location: Kogi | Location2: Ayingba | Position: Health Informatics Assistant | Staff\_id: CIHPNG22/235 | Grant Project: IRIS | Supervisor: Taiwo Orimoloye | Date of Employment: NaN
+RECORD: S/N: 151 | Name of Staff: Mary | Name- Others: Inajoh Adenike | Location: Kogi | Location2: Egbe-Kabba | Position: HTS Assistant | Staff\_id: CIHPNG22/233 | Grant Project: IRIS | Supervisor: Kingsley Eneh | Date of Employment: NaN
+RECORD: S/N: 152 | Name of Staff: Yakubu | Name- Others: Olatunde | Location: Kogi | Location2: Egbe-Kabba | Position: Health Informatics Assistant | Staff\_id: CIHPNG22/279 | Grant Project: IRIS | Supervisor: Kingsley Eneh | Date of Employment: NaN
+RECORD: S/N: 153 | Name of Staff: Paulina | Name- Others: Onalo | Location: Kogi | Location2: Idah | Position: Site Data Support Operative (SDSO) | Staff\_id: CIHPNG23/324 | Grant Project: IRIS | Supervisor: Kingsley Eneh | Date of Employment: NaN
+RECORD: S/N: 154 | Name of Staff: Busari | Name- Others: Oluwunmi | Location: Kogi | Location2: Okene | Position: Strategic Information Assistant | Staff\_id: CIHPNG22/239 | Grant Project: IRIS | Supervisor: Kingsley Eneh | Date of Employment: NaN
+RECORD: S/N: 155 | Name of Staff: Abbas | Name- Others: Shuaib | Location: Kogi | Location2: Okene | Position: HTS/Prevention Assistant | Staff\_id: CIHPNG23/340 | Grant Project: IRIS | Supervisor: Kingsley Eneh | Date of Employment: NaN
+RECORD: S/N: 156 | Name of Staff: Fabian | Name- Others: Ayegba | Location: Kogi | Location2: Egbe-Kabba | Position: Health Informatics Assistant | Staff\_id: CIHPNG22/234 | Grant Project: IRIS | Supervisor: Kingsley Eneh | Date of Employment: NaN
+RECORD: S/N: 157 | Name of Staff: Lois | Name- Others: Aigbe | Location: Lagos | Location2: Ikeja Main office | Position: Pediatrics & Adolescent Associate | Staff\_id: CIHPNG22/049 | Grant Project: IRIS | Supervisor: Oluwabunmi Adesanya | Date of Employment: NaN
+RECORD: S/N: 158 | Name of Staff: Omolade | Name- Others: Olubunmi | Location: Lagos | Location2: Epe | Position: Senior Officer, Laboratory and Biosafety Services | Staff\_id: CIHPNG22/266 | Grant Project: IRIS | Supervisor: Osaremwanta Omokaro | Date of Employment: NaN
+RECORD: S/N: 159 | Name of Staff: Akpodee | Name- Others: Leton | Location: Lagos | Location2: Ikeja Main office | Position: Laboratory Services Officer-Multi Testing | Staff\_id: CIHPNG22/156 | Grant Project: IRIS | Supervisor: Oluwabunmi Adesanya | Date of Employment: NaN
+RECORD: S/N: 160 | Name of Staff: Oluwasola | Name- Others: Idowu | Location: Lagos | Location2: Ikeja Main office | Position: Deputy State Program Manager | Staff\_id: CIHPNG22/267 | Grant Project: IRIS | Supervisor: Oluwabunmi Adesanya | Date of Employment: NaN
+RECORD: S/N: 161 | Name of Staff: Chimnoya | Name- Others: Okenu Lukebest | Location: Lagos | Location2: Ikeja Main office | Position: Strategic Information Officer | Staff\_id: CIHPNG22/118 | Grant Project: IRIS | Supervisor: Idowu Oluwashola | Date of Employment: NaN
+RECORD: S/N: 162 | Name of Staff: Hayes | Name- Others: Abiodun | Location: Lagos | Location2: Ikeja Main office | Position: Finance Assistant | Staff\_id: CIHPNG22/286 | Grant Project: IRIS | Supervisor: Celestine Akubo | Date of Employment: NaN
+RECORD: S/N: 163 | Name of Staff: Ogunmuyiwa | Name- Others: Adesoye Azeez | Location: Lagos | Location2: Ikeja Main office | Position: Store Associate | Staff\_id: CIHPNG22/058 | Grant Project: IRIS | Supervisor: Celestine Akubo | Date of Employment: NaN
+RECORD: S/N: 164 | Name of Staff: Ogunkoya | Name- Others: Olufemi | Location: Lagos | Location2: Ikeja Main office | Position: Transport and Logistics Assistant | Staff\_id: CIHPNG22145 | Grant Project: IRIS | Supervisor: Adewale Elizabeth | Date of Employment: NaN
+RECORD: S/N: 165 | Name of Staff: Sanni | Name- Others: Olarotimi | Location: Lagos | Location2: Ikeja Main office | Position: Transport and Logistics Assistant | Staff\_id: CIHPNG22/134 | Grant Project: IRIS | Supervisor: Adewale Elizabeth | Date of Employment: NaN
+RECORD: S/N: 166 | Name of Staff: Ayedun | Name- Others: Olushina | Location: Lagos | Location2: Ikeja Main office | Position: Transport & Logistics Assistant | Staff\_id: CIHPNG22/215 | Grant Project: IRIS | Supervisor: Adewale Elizabeth | Date of Employment: NaN
+RECORD: S/N: 167 | Name of Staff: Christopher | Name- Others: Ikogor | Location: Lagos | Location2: Epe | Position: Transport and Logistics Assistant | Staff\_id: CIHPNG22/069 | Grant Project: IRIS | Supervisor: Osaremwanta Omokaro | Date of Employment: NaN
+RECORD: S/N: 168 | Name of Staff: Olupitan | Name- Others: Olorunwa Samson | Location: Lagos | Location2: Ikeja Main office | Position: IT Officer | Staff\_id: CIHPNG22/121 | Grant Project: IRIS | Supervisor: Samaila Yusuf | Date of Employment: NaN
+RECORD: S/N: 169 | Name of Staff: Adesanya | Name- Others: Oluwabunmi | Location: Lagos | Location2: Ikeja Main office | Position: State Program Manager | Staff\_id: CIHPNG22/123 | Grant Project: IRIS | Supervisor: Francis Ogirima | Date of Employment: NaN
+RECORD: S/N: 170 | Name of Staff: Oshinowo | Name- Others: Abiodun | Location: Lagos | Location2: Ikeja Main office | Position: Clinical Services Officer, Pharmaceutical Services | Staff\_id: CIHPNG22/034 | Grant Project: IRIS | Supervisor: Oluwabunmi Adesanya | Date of Employment: NaN
+RECORD: S/N: 171 | Name of Staff: Ogunnaike | Name- Others: Adewale | Location: Lagos | Location2: Ikeja Main office | Position: Senior Associate Strategic Information - Evaluation & Surveillance | Staff\_id: CIHPNG22/060 | Grant Project: IRIS | Supervisor: Oluwashola Idowu | Date of Employment: NaN
+RECORD: S/N: 172 | Name of Staff: Anabraba | Name- Others: Ifeoma | Location: Lagos | Location2: Alimosho | Position: Clinical Services Officer | Staff\_id: CIHPNG22/218 | Grant Project: IRIS | Supervisor: Oluwabunmi Adesanya | Date of Employment: NaN
+RECORD: S/N: 173 | Name of Staff: Josephine | Name- Others: Eyaba | Location: Lagos | Location2: Alimosho | Position: Senior Clinical Services Associate, AP3 | Staff\_id: CIHPNG22/244 | Grant Project: IRIS | Supervisor: Patrick Fauga | Date of Employment: NaN
+RECORD: S/N: 175 | Name of Staff: Margareth | Name- Others: Olaiya | Location: Lagos | Location2: Alimosho | Position: HTS Associate | Staff\_id: CIHPNG22/204 | Grant Project: IRIS | Supervisor: Patrick Fauga | Date of Employment: NaN
+RECORD: S/N: 176 | Name of Staff: Izegbu | Name- Others: Genevieve C | Location: Lagos | Location2: Alimosho | Position: Senior Associate Laboratory Services | Staff\_id: CIHPNG22/125 | Grant Project: IRIS | Supervisor: Patrick Fauga | Date of Employment: NaN
+RECORD: S/N: 177 | Name of Staff: Omokhudu | Name- Others: Erica | Location: Lagos | Location2: Alimosho | Position: Strategic Information Associate | Staff\_id: CIHPNG22/202 | Grant Project: IRIS | Supervisor: Patrick Fauga | Date of Employment: NaN
+RECORD: S/N: 178 | Name of Staff: Abdulqudus | Name- Others: Adekunle Raji | Location: Lagos | Location2: Alimosho | Position: Senior Associate SI | Staff\_id: CIHPNG22/025 | Grant Project: IRIS | Supervisor: Patrick Fauga | Date of Employment: NaN
+RECORD: S/N: 179 | Name of Staff: Enyinnaya | Name- Others: Okechukwu Paul | Location: Lagos | Location2: Alimosho | Position: Program Associate | Staff\_id: CIHPNG22/132 | Grant Project: IRIS | Supervisor: Patrick Fauga | Date of Employment: NaN
+RECORD: S/N: 180 | Name of Staff: Olayinka | Name- Others: Abolaji Olumide | Location: Lagos | Location2: Alimosho | Position: Transport And Logistics Assistant | Staff\_id: CIHPNG22/148 | Grant Project: IRIS | Supervisor: Patrick Fauga | Date of Employment: NaN
+RECORD: S/N: 181 | Name of Staff: Afolabi | Name- Others: Mulikat | Location: Lagos | Location2: Ikeja | Position: State Technical Lead | Staff\_id: CIHPNG22/203 | Grant Project: IRIS | Supervisor: Oluwabunmi Adesanya | Date of Employment: NaN
+RECORD: S/N: 182 | Name of Staff: Christiana | Name- Others: Inyamah | Location: Lagos | Location2: Epe | Position: HTS Associate | Staff\_id: CIHPNG22/198 | Grant Project: IRIS | Supervisor: Osaremwanta Omokaro | Date of Employment: NaN
+RECORD: S/N: 183 | Name of Staff: Segun | Name- Others: Aribgbabuwo | Location: Lagos | Location2: Epe | Position: Strategic Information Assistant M&E | Staff\_id: CIHPNG23/348 | Grant Project: IRIS | Supervisor: Osaremwanta Omokaro | Date of Employment: NaN
+RECORD: S/N: 184 | Name of Staff: Adesanya | Name- Others: Taiwo Emmanuel | Location: Lagos | Location2: Eti-Osa/Ibeju-Lekki | Position: HTS Assistant | Staff\_id: CIHPNG22/313 | Grant Project: IRIS | Supervisor: Opeyemi Awujoola | Date of Employment: NaN
+RECORD: S/N: 185 | Name of Staff: Omodudu | Name- Others: Opeyemi | Location: Lagos | Location2: Eti-Osa/Ibeju-Lekki | Position: Pharmaceutical Service Associate | Staff\_id: CIHPNG22/061 | Grant Project: IRIS | Supervisor: Opeyemi Awujoola | Date of Employment: NaN
+RECORD: S/N: 186 | Name of Staff: Olaniyan | Name- Others: Olatunji | Location: Lagos | Location2: Eti-Osa/Ibeju-Lekki | Position: Laboratory Service Associate | Staff\_id: CIHPNG22/161 | Grant Project: IRIS | Supervisor: Opeyemi Awujoola | Date of Employment: NaN
+RECORD: S/N: 187 | Name of Staff: Albert | Name- Others: Victoria | Location: Lagos | Location2: Eti-Osa/Ibeju-Lekki | Position: Laboratory Services Assistant | Staff\_id: CIHPNG22/304 | Grant Project: IRIS | Supervisor: Opeyemi Awujoola | Date of Employment: NaN
+RECORD: S/N: 188 | Name of Staff: Opeyemi | Name- Others: Kameel Owolabi | Location: Lagos | Location2: Eti-Osa/Ibeju-Lekki | Position: Senior Associate Strategic Information | Staff\_id: CIHPNG22/126 | Grant Project: IRIS | Supervisor: Opeyemi Awujoola | Date of Employment: NaN
+RECORD: S/N: 189 | Name of Staff: Ngwoke | Name- Others: Obinna | Location: Lagos | Location2: Eti-Osa/Ibeju-Lekki | Position: HI Assistant | Staff\_id: CIHPNG23/321 | Grant Project: IRIS | Supervisor: Opeyemi Awujoola | Date of Employment: NaN
+RECORD: S/N: 190 | Name of Staff: Omodele | Name- Others: Raji | Location: Lagos | Location2: Ikeja-Ifako | Position: Senior Associate, Community Treatment Network Peds and Adolescents | Staff\_id: CIHPNG22/173 | Grant Project: IRIS | Supervisor: Chrisian Etuk | Date of Employment: NaN
+RECORD: S/N: 191 | Name of Staff: Orezimena | Name- Others: Bolomope | Location: Lagos | Location2: Ikeja-Ifako | Position: HTS Associate | Staff\_id: CIHPNG22/312 | Grant Project: IRIS | Supervisor: Chrisian Etuk | Date of Employment: NaN
+RECORD: S/N: 192 | Name of Staff: Aderibigbe | Name- Others: Temitope | Location: Lagos | Location2: Ikeja-Ifako | Position: Pharmacy & Logistics Services Officer | Staff\_id: CIHPNG22/260 | Grant Project: IRIS | Supervisor: Chrisian Etuk | Date of Employment: NaN
+RECORD: S/N: 193 | Name of Staff: Ruth | Name- Others: Oluwafunmilayo Lawal | Location: Lagos | Location2: Ikeja-Ifako | Position: Senior Associate, Clinical Services - Care & Treatment | Staff\_id: CIHPNG22/226 | Grant Project: IRIS | Supervisor: Chrisian Etuk | Date of Employment: NaN
+RECORD: S/N: 195 | Name of Staff: Jimoh | Name- Others: Olawale | Location: Lagos | Location2: Ikeja-Ifako | Position: Transport and Logistics Assistant | Staff\_id: CIHPNG22/147 | Grant Project: IRIS | Supervisor: Chrisian Etuk | Date of Employment: NaN
+RECORD: S/N: 196 | Name of Staff: Agina | Name- Others: Uchenna | Location: Lagos | Location2: Ikeja-Ifako | Position: Health Informatics Assistant | Staff\_id: CIHPNG22/228 | Grant Project: IRIS | Supervisor: Chrisian Etuk | Date of Employment: NaN
+RECORD: S/N: 197 | Name of Staff: Ijiga | Name- Others: Innocent | Location: Lagos | Location2: Ikeja-Ifako | Position: Officer Strategic Information M&E | Staff\_id: CIHPNG22/128 | Grant Project: IRIS | Supervisor: Chrisian Etuk | Date of Employment: NaN
+RECORD: S/N: 198 | Name of Staff: Patrick | Name- Others: Fauga Oluleke | Location: Lagos | Location2: Mushin-Isolo | Position: Clinical Services Officer | Staff\_id: CIHPNG22/120 | Grant Project: IRIS | Supervisor: Oluwabunmi Adesanya | Date of Employment: NaN
+RECORD: S/N: 199 | Name of Staff: Inyang | Name- Others: Nse-Obong | Location: Lagos | Location2: Mushin-Isolo | Position: Pharmacist Assistant | Staff\_id: CIHPNG22/346 | Grant Project: IRIS | Supervisor: Patrick Fauga | Date of Employment: NaN
+RECORD: S/N: 200 | Name of Staff: David Kayode | Name- Others: Olufisoye | Location: Lagos | Location2: Mushin-Isolo | Position: Transport and Logistics Assistant | Staff\_id: CIHPNG22/070 | Grant Project: IRIS | Supervisor: Ruth Lawal | Date of Employment: NaN
+RECORD: S/N: 201 | Name of Staff: Adebisi | Name- Others: Lawal Abdulsamaad | Location: Lagos | Location2: Mushin-Isolo | Position: Senior Clinical Service Associate - Adult ART | Staff\_id: CIHPNG22/308 | Grant Project: IRIS | Supervisor: Ruth Lawal | Date of Employment: NaN
+RECORD: S/N: 202 | Name of Staff: Adedokun | Name- Others: Adekola | Location: Lagos | Location2: Mushin-Isolo | Position: Senior Clinical Service Associate - Adult ART | Staff\_id: CIHPNG22/309 | Grant Project: IRIS | Supervisor: Ruth Lawal | Date of Employment: NaN
+RECORD: S/N: 203 | Name of Staff: Immaculate | Name- Others: Ohagudo | Location: Lagos | Location2: Mushin-Isolo | Position: Senior Lab Services Associate | Staff\_id: CIHPNG22/200 | Grant Project: IRIS | Supervisor: Ruth Lawal | Date of Employment: NaN
+RECORD: S/N: 204 | Name of Staff: Akaeze | Name- Others: Stella | Location: Lagos | Location2: Mushin-Isolo | Position: Laboratory Services Assistant | Staff\_id: CIHPNG22/310 | Grant Project: IRIS | Supervisor: Ruth Lawal | Date of Employment: NaN
+RECORD: S/N: 206 | Name of Staff: Adewunmi | Name- Others: Oluwaseun | Location: Lagos | Location2: Mushin-Isolo | Position: Transport/Logistics Assistant, | Staff\_id: CIHPNG22/063 | Grant Project: IRIS | Supervisor: Ruth Lawal | Date of Employment: NaN
+RECORD: S/N: 207 | Name of Staff: Rufai | Name- Others: Constance | Location: Lagos | Location2: Mushin-Isolo | Position: Senior Assocaite Strategic Information | Staff\_id: CIHPNG22/144 | Grant Project: IRIS | Supervisor: Ruth Lawal | Date of Employment: NaN
+RECORD: S/N: 208 | Name of Staff: Adegbite | Name- Others: Adekunle | Location: Lagos | Location2: Mushin-Isolo | Position: Strategic Information Assistant Monitoring & Evaluation | Staff\_id: CIHPNG23/349 | Grant Project: IRIS | Supervisor: Ruth Lawal | Date of Employment: NaN
+RECORD: S/N: 209 | Name of Staff: Temipeju | Name- Others: Odebunmi | Location: Head Office | Location2: Head Office | Position: Senior Associate, Community Treatment Network Peds and Adolescents | Staff\_id: CIHPNG22/302 | Grant Project: IRIS | Supervisor: Oluwatosin Oladokun | Date of Employment: NaN
+RECORD: S/N: 210 | Name of Staff: Kayadi | Name- Others: Sandra Thomas | Location: Kaduna | Location2: Kaduna | Position: Laboratory Service Officer | Staff\_id: CIHPNG22/007 | Grant Project: IRIS | Supervisor: Sannom Hayab | Date of Employment: NaN
+RECORD: S/N: 211 | Name of Staff: Adebayo | Name- Others: Oladapo Benjamin | Location: Kaduna | Location2: Kaduna | Position: Transport and Logistics Assistant | Staff\_id: CIHPNG22/175 | Grant Project: IRIS | Supervisor: Jean Udeh | Date of Employment: NaN
+RECORD: S/N: 212 | Name of Staff: Ola | Name- Others: Abba | Location: Kaduna | Location2: Kaduna | Position: SI Associate | Staff\_id: CIHPNG22/062 | Grant Project: IRIS | Supervisor: Rose Ibanichuka | Date of Employment: NaN
+RECORD: S/N: 213 | Name of Staff: Umoh | Name- Others: Nkereuwem Steve | Location: Lagos | Location2: Ikeja Main office | Position: Store Clerk | Staff\_id: CIHPNG22/193 | Grant Project: IRIS | Supervisor: Ogunmuyiwa Adesoye Azeez | Date of Employment: NaN
+RECORD: S/N: 214 | Name of Staff: Afolabi | Name- Others: Matthew | Location: Lagos | Location2: Eti-Osa/Ibeju-Lekki | Position: Transport and Logistics Assistant | Staff\_id: CIHPNG22/157 | Grant Project: IRIS | Supervisor: Opeyemi Awujoola | Date of Employment: NaN
+RECORD: S/N: 215 | Name of Staff: Ariyo | Name- Others: Tolulope | Location: Head Office | Location2: Head Office | Position: Associate Director Grant Finance Management | Staff\_id: CIHPNG22/005 | Grant Project: IRIS | Supervisor: Bolanle Oyeledun | Date of Employment: NaN
+RECORD: S/N: 216 | Name of Staff: Ikani | Name- Others: Samson Ajeka | Location: Kogi | Location2: Lokoja | Position: Strategic Information Assistant | Staff\_id: CIHPNG22/240 | Grant Project: IRIS | Supervisor: Michael Adole | Date of Employment: NaN
+RECORD: S/N: 217 | Name of Staff: Elizabeth | Name- Others: Adewole | Location: Lagos | Location2: Ikeja Main office | Position: Administrative Associate | Staff\_id: CIHPNG22/176 | Grant Project: IRIS | Supervisor: Monica Keji | Date of Employment: NaN
+RECORD: S/N: 218 | Name of Staff: Ibrahim | Name- Others: Rekiya | Location: Kaduna | Location2: Kaduna | Position: Finance &Administrative Associate | Staff\_id: CIHPNG22/057 | Grant Project: IRIS | Supervisor: Jean Udeh | Date of Employment: NaN
+RECORD: S/N: 219 | Name of Staff: Aminu | Name- Others: Jibo | Location: Head Office | Location2: Head Office | Position: Finance Assistant | Staff\_id: CIHPNG22/268 | Grant Project: IRIS | Supervisor: Joshua Unuayonkhe | Date of Employment: NaN
+RECORD: S/N: 220 | Name of Staff: Omale | Name- Others: Ambrose | Location: Head Office | Location2: Head Office | Position: Administrative Assistant | Staff\_id: CIHPNG22/258 | Grant Project: IRIS | Supervisor: Kima Lakoju | Date of Employment: NaN
+RECORD: S/N: 221 | Name of Staff: Zekeri | Name- Others: Abel Michael | Location: Kogi | Location2: Lokoja | Position: Pharmacy and Logistics Services Officer | Staff\_id: CIHPNG22/155 | Grant Project: IRIS | Supervisor: Bernard Akpa | Date of Employment: NaN
+RECORD: S/N: 222 | Name of Staff: Okopi | Name- Others: Sunday | Location: Kaduna | Location2: Kaduna | Position: Strategic Information Associate | Staff\_id: CIHPNG22/264 | Grant Project: IRIS | Supervisor: Rose Ibanichuka | Date of Employment: NaN
+RECORD: S/N: 223 | Name of Staff: Kayode | Name- Others: Osunsusi | Location: Lagos | Location2: Ikeja Main office | Position: Finance Associate | Staff\_id: CIHPNG22/189 | Grant Project: IRIS | Supervisor: Celestine Akubo | Date of Employment: NaN
+RECORD: S/N: 224 | Name of Staff: Otelimabia | Name- Others: George Deinma | Location: Lagos | Location2: Ikeja Main office | Position: Clinical Service Associate Treatment Support | Staff\_id: CIHPNG22/133 | Grant Project: IRIS | Supervisor: Oluwabunmi Adesanya | Date of Employment: NaN
+RECORD: S/N: 225 | Name of Staff: Olorundare | Name- Others: Yemisi Josephine | Location: Lagos | Location2: Mushin-Isolo | Position: Senior Pharmaceutical Service Associate | Staff\_id: CIHPNG22/168 | Grant Project: IRIS | Supervisor: Ruth Lawal | Date of Employment: NaN
+RECORD: S/N: 226 | Name of Staff: Christian | Name- Others: Etuk | Location: Lagos | Location2: Ikeja-Ifako | Position: Senior Clinical Services Associtat - Care & Treatment | Staff\_id: CIHPNG22/219 | Grant Project: IRIS | Supervisor: Oluwabunmi Adesanya | Date of Employment: NaN
+RECORD: S/N: 227 | Name of Staff: Oluwatobi | Name- Others: Adebimpe Adegbola | Location: Lagos | Location2: Epe | Position: Health Informatics Associate | Staff\_id: CIHPNG22/212 | Grant Project: IRIS | Supervisor: Osaremwanta Omokaro | Date of Employment: NaN
+RECORD: S/N: 228 | Name of Staff: Balogun | Name- Others: Oluwole | Location: Head Office | Location2: Head Office | Position: Strategic Information Associate Community Treatment Network Peds and Adolescents | Staff\_id: CIHPNG23/341 | Grant Project: IRIS | Supervisor: Olufunsho Sani | Date of Employment: NaN
+RECORD: S/N: 230 | Name of Staff: Odutayo | Name- Others: Oladimeji | Location: Kaduna | Location2: Kaduna | Position: Senior Strategic Information Associate | Staff\_id: CIHPNG22/010 | Grant Project: IRIS | Supervisor: Rose Ibanichuka | Date of Employment: NaN
+RECORD: S/N: 231 | Name of Staff: Ayoola | Name- Others: Oladipupo | Location: Kogi | Location2: Lokoja | Position: Senior Associate Strategic Information | Staff\_id: CIHPNG22/085 | Grant Project: IRIS | Supervisor: Michael Adole | Date of Employment: NaN
+RECORD: S/N: 233 | Name of Staff: Oklobia | Name- Others: Raphael | Location: Kogi | Location2: Lokoja | Position: Senior Associate Strategic Information | Staff\_id: CIHPNG22/093 | Grant Project: IRIS | Supervisor: Michael Adole | Date of Employment: NaN
+RECORD: S/N: 234 | Name of Staff: Imarhiagbe | Name- Others: Collins | Location: Head Office | Location2: Head Office | Position: Director, Strategic Information | Staff\_id: CIHPNG22/002 | Grant Project: IRIS | Supervisor: NaN | Date of Employment: NaN
+RECORD: S/N: 235 | Name of Staff: Gilbert | Name- Others: Okechukwu Ojiakor | Location: Lagos | Location2: Ikeja Main office | Position: Officer - Peds& Adolescent Community Network | Staff\_id: CIHPNG22/206 | Grant Project: IRIS | Supervisor: Oluwabunmi Adesanya | Date of Employment: NaN
+RECORD: S/N: 236 | Name of Staff: Azeez | Name- Others: Olusanya | Location: Lagos | Location2: Ikeja Main office | Position: Finance Clerk | Staff\_id: CIHPNG22/210 | Grant Project: IRIS | Supervisor: Celestine Akubo | Date of Employment: NaN
+RECORD: S/N: 237 | Name of Staff: Onugha | Name- Others: Kenneth | Location: Head Office | Location2: Head Office | Position: Senior Associate System Analyst | Staff\_id: CIHPNG22/023 | Grant Project: IRIS | Supervisor: David Udanwoju | Date of Employment: NaN
+RECORD: S/N: 238 | Name of Staff: Saminu | Name- Others: Idris | Location: Head Office | Location2: Head Office | Position: Human Resources Associate | Staff\_id: CIHPNG22/067 | Grant Project: IRIS | Supervisor: Arubi Hope | Date of Employment: NaN
+RECORD: S/N: 239 | Name of Staff: Tamuno | Name- Others: Fortune Luke | Location: Kogi | Location2: Lokoja | Position: Sexual Violence Prevention Assistant | Staff\_id: CIHPNG22/220 | Grant Project: IRIS | Supervisor: Lawrencia Inyama | Date of Employment: NaN
+RECORD: S/N: 240 | Name of Staff: Oluwaseun | Name- Others: Aliyu Oseni | Location: Lagos | Location2: Ikeja Main office | Position: Information Technology Associate | Staff\_id: CIHPNG22/122 | Grant Project: IRIS | Supervisor: Samson Olupitan | Date of Employment: NaN
+RECORD: S/N: 241 | Name of Staff: Isiuwa | Name- Others: Ikhinmwin | Location: Lagos | Location2: Eti-Osa/Ibeju-Lekki | Position: Clinical Services Assistant, PMTCT | Staff\_id: CIHPNG22/187 | Grant Project: IRIS | Supervisor: Opeyemi Awujoola | Date of Employment: NaN
+RECORD: S/N: 242 | Name of Staff: Sabiu | Name- Others: Tajudeen | Location: Head Office | Location2: Head Office | Position: Senior Manager, Subcontract | Staff\_id: CIHPNG22/028 | Grant Project: IRIS | Supervisor: Bolanle Oyeledun | Date of Employment: NaN
+RECORD: S/N: 243 | Name of Staff: Aisha | Name- Others: Sule | Location: Lagos | Location2: Ikeja Main office | Position: Sexual Violence PreventionAssociate | Staff\_id: CIHPNG22/199 | Grant Project: IRIS | Supervisor: Oluwabunmi Adesanya | Date of Employment: NaN
+RECORD: S/N: 244 | Name of Staff: Seriki | Name- Others: Oluwafemi Joseph | Location: Head Office | Location2: Head Office | Position: Health Informatics Associate Data And System Analyst | Staff\_id: CIHPNG22/042 | Grant Project: IRIS | Supervisor: Dimgba Kalu | Date of Employment: NaN
+RECORD: S/N: 245 | Name of Staff: Ugbede | Name- Others: Atawodi | Location: Head Office | Location2: Head Office | Position: Store Assistant | Staff\_id: CIHPNG22/172 | Grant Project: IRIS | Supervisor: Oluwaseun Adesanya | Date of Employment: NaN
+RECORD: S/N: 246 | Name of Staff: Emenogu | Name- Others: Chinyere | Location: Head Office | Location2: Head Office | Position: Laboratory Services Officer | Staff\_id: CIHPNG22/137 | Grant Project: IRIS | Supervisor: David Barnabas | Date of Employment: NaN
+RECORD: S/N: 247 | Name of Staff: Akpofure | Name- Others: Oyakhilomen Blessing | Location: Lagos | Location2: Mushin-Isolo | Position: Senior Associate HTS | Staff\_id: CIHPNG22/169 | Grant Project: IRIS | Supervisor: Ruth Lawal | Date of Employment: NaN
+RECORD: S/N: 248 | Name of Staff: Akubo | Name- Others: Celestine | Location: Lagos | Location2: Ikeja Main office | Position: Finance & Subcontract Operation Officer | Staff\_id: CIHPNG22/130 | Grant Project: IRIS | Supervisor: Oluwabunmi Adesanya | Date of Employment: NaN
+RECORD: S/N: 249 | Name of Staff: Onwuegbusi | Name- Others: Anthony | Location: Head office | Location2: Head office | Position: Senior Manager, Adult ART & AHD | Staff\_id: CIHPNG22/022 | Grant Project: IRIS | Supervisor: Inyang Ayo | Date of Employment: NaN
+RECORD: S/N: 250 | Name of Staff: Sampson | Name- Others: Mary-Joy | Location: Head Office | Location2: Head Office | Position: Senior Grants/Adminstrative Associate | Staff\_id: CIHPNG22/291 | Grant Project: IRIS | Supervisor: Bolanle Oyeledun | Date of Employment: NaN
+RECORD: S/N: 251 | Name of Staff: Joseph-Andrews | Name- Others: Idala | Location: Head Office | Location2: Head Office | Position: Senior Associate HTS | Staff\_id: CIHPNG22/098 | Grant Project: IRIS | Supervisor: Ezinne Akinola | Date of Employment: NaN
+RECORD: S/N: 252 | Name of Staff: Awujoola | Name- Others: Opeyemi | Location: Lagos | Location2: Ikeja Main office | Position: Clinical Services Officer, Adult-ART | Staff\_id: CIHPNG22/124 | Grant Project: IRIS | Supervisor: Oluwabunmi Adesanya | Date of Employment: NaN
+RECORD: S/N: 253 | Name of Staff: Femi | Name- Others: Sheleru | Location: Head Office | Location2: Head Office | Position: Manager, Supply Chain Manager | Staff\_id: CIHPNG22/136 | Grant Project: IRIS | Supervisor: Samaila Yusuf | Date of Employment: NaN
+RECORD: S/N: 254 | Name of Staff: Hope | Name- Others: Arubi | Location: Head Office | Location2: Head Office | Position: Senior Human Resources Associate | Staff\_id: CIHPNG22/068 | Grant Project: IRIS | Supervisor: Kima Lakoju | Date of Employment: NaN
+RECORD: S/N: 255 | Name of Staff: Ahmed | Name- Others: Mohammed | Location: Kogi | Location2: Lokoja | Position: Information Technology Assistant | Staff\_id: CIHPNG22/179 | Grant Project: IRIS | Supervisor: Bernard Akpa | Date of Employment: NaN
+RECORD: S/N: 256 | Name of Staff: Frank | Name- Others: Eke | Location: Lagos | Location2: Mushin-Isolo | Position: Strategic Information Associate | Staff\_id: CIHPNG22/036 | Grant Project: IRIS | Supervisor: Ruth Lawal | Date of Employment: NaN
+RECORD: S/N: 257 | Name of Staff: Edogbanya | Name- Others: David | Location: Kogi | Location2: Okene | Position: Clinical Service Associate, PMTCT | Staff\_id: CIHPNG22/253 | Grant Project: IRIS | Supervisor: Kingsley Eneh | Date of Employment: NaN
+RECORD: S/N: 258 | Name of Staff: Adeiza | Name- Others: Jacob | Location: Lagos | Location2: Ikeja Main office | Position: Strategic Information M&E Assistant | Staff\_id: CIHPNG22/181 | Grant Project: IRIS | Supervisor: Oluwashola Idowu | Date of Employment: NaN
+RECORD: S/N: 260 | Name of Staff: Taiwo | Name- Others: Janet | Location: Head Office | Location2: Head Office | Position: Manager, Compliance and Risk Management | Staff\_id: CIHPNG22/108 | Grant Project: IRIS | Supervisor: Janet | Date of Employment: NaN
+RECORD: S/N: 261 | Name of Staff: Omolola | Name- Others: Thomas Bukola | Location: Kaduna | Location2: Kaduna | Position: Pharmacy Logistics Officer | Staff\_id: CIHPNG22/211 | Grant Project: IRIS | Supervisor: Sannom Hayab | Date of Employment: NaN
+RECORD: S/N: 262 | Name of Staff: Andrew | Name- Others: Sampson Udofia | Location: Lagos | Location2: Lagos,Ikeja | Position: Senior Associate Strategic Information | Staff\_id: CIHPNG22/053 | Grant Project: IRIS | Supervisor: Idowu Oluwashola | Date of Employment: NaN
+RECORD: S/N: 263 | Name of Staff: Evare | Name- Others: Peter Ozah | Location: Lagos | Location2: Ifako Command, Lagos | Position: Laboratory Services Associate | Staff\_id: CIHPNG23/357 | Grant Project: IRIS | Supervisor: Christian Etuk | Date of Employment: NaN
+RECORD: S/N: 264 | Name of Staff: Juliana | Name- Others: Mohammed | Location: Kaduna | Location2: Kaduna | Position: Treatment Support Associate | Staff\_id: CIHPNG23/356 | Grant Project: IRIS | Supervisor: Uwem Essien | Date of Employment: NaN
+RECORD: S/N: 265 | Name of Staff: Mesagan | Name- Others: Funmilayo Blessing | Location: Lagos | Location2: Mushin CSCC, Lagos | Position: Pharmacy Clerk | Staff\_id: CIHPNG23/358 | Grant Project: IRIS | Supervisor: Adebisi Lawal | Date of Employment: NaN
+RECORD: S/N: 266 | Name of Staff: Adeyemo | Name- Others: Olugbenga | Location: Lagos | Location2: Alimosho Command, Lagos | Position: SI Assistant | Staff\_id: CIHPNG23/360 | Grant Project: IRIS | Supervisor: Idowu Oluwashola | Date of Employment: NaN
+RECORD: S/N: 267 | Name of Staff: Ibukunoluwa | Name- Others: Iyanuoluwa Kuyinu | Location: Lagos | Location2: Ikeja Main Office | Position: Clinical Services Associate, Adult-ART | Staff\_id: CIHPNG24/383 | Grant Project: IRIS | Supervisor: Adesanya Oluwabunmi | Date of Employment: NaN
+RECORD: S/N: 268 | Name of Staff: Henrietta | Name- Others: Amauche Nwagu | Location: Kaduna | Location2: Kaduna | Position: Lab Service Associate | Staff\_id: CIHPNG24/397 | Grant Project: IRIS | Supervisor: Sandra Thomas | Date of Employment: NaN
+RECORD: S/N: 269 | Name of Staff: Ayokunumi | Name- Others: Orimolade | Location: Abuja | Location2: Abuja | Position: IT Associate | Staff\_id: CIHPNG23/365 | Grant Project: IRIS | Supervisor: Adedji Adedayo | Date of Employment: NaN
+RECORD: S/N: 270 | Name of Staff: Tersoo | Name- Others: Solomo Igbadoo | Location: Abuja | Location2: Abuja | Position: Store Clerk | Staff\_id: CIHPNG23/366 | Grant Project: IRIS | Supervisor: Oluwaseun Adesanya | Date of Employment: NaN
+RECORD: S/N: 271 | Name of Staff: Monica | Name- Others: Olubunmi Keji-Ayodeji | Location: Lagos | Location2: Lagos | Position: Senior Finance Associate | Staff\_id: CIHPNG24/373 | Grant Project: GANC | Supervisor: Celestine Akubo | Date of Employment: NaN
+RECORD: S/N: 272 | Name of Staff: Aya | Name- Others: Gberikon | Location: Abuja | Location2: Abuja | Position: Human Resources Assistant | Staff\_id: CIHPNG24/372 | Grant Project: IRIS | Supervisor: Arubi Hope | Date of Employment: NaN
+RECORD: S/N: 273 | Name of Staff: Joseph | Name- Others: Oche Joseph | Location: Abuja | Location2: Abuja | Position: Laboratory Services Associate | Staff\_id: CIHPNG23/367 | Grant Project: IRIS | Supervisor: David Barnabas | Date of Employment: NaN
+RECORD: S/N: 274 | Name of Staff: Agnes | Name- Others: Edoka | Location: Abuja | Location2: Abuja | Position: Human Resource Assistant | Staff\_id: CIHPNG24/368 | Grant Project: IRIS | Supervisor: Arubi Hope | Date of Employment: NaN
+RECORD: S/N: 275 | Name of Staff: Akatu | Name- Others: Adikwe | Location: Kaduna | Location2: Kaduna | Position: \tClinical Services Associate; Care and Support | Staff\_id: CIHPNG24/389 | Grant Project: IRIS | Supervisor: Austin- Justine Azahaiwe | Date of Employment: NaN
+RECORD: S/N: 276 | Name of Staff: Esther | Name- Others: Edet Timothy | Location: Kogi | Location2: Kogi | Position: \tClinical Services Associate; Care and Support | Staff\_id: CIHPNG24/396 | Grant Project: IRIS | Supervisor: Godwin Ayeh | Date of Employment: NaN
+RECORD: S/N: 279 | Name of Staff: John | Name- Others: Etebe | Location: Kaduna | Location2: Kaduna | Position: HTS Associate | Staff\_id: CIHPNG24/388 | Grant Project: IRIS | Supervisor: Peter Ochelebe | Date of Employment: NaN
+RECORD: S/N: 280 | Name of Staff: Fatima | Name- Others: Hassan | Location: Abuja | Location2: Abuja | Position: Program Assistanr | Staff\_id: CIHPNG24/371 | Grant Project: IRIS | Supervisor: Oluwatosin Oladokun | Date of Employment: NaN
+RECORD: S/N: 281 | Name of Staff: Henry | Name- Others: Obikwere | Location: Lagos | Location2: Lagos | Position: Clinical Services Associate Treatment Support | Staff\_id: CIHPNG24/384 | Grant Project: IRIS | Supervisor: Patrick Fauga | Date of Employment: NaN
+RECORD: S/N: 282 | Name of Staff: Happiness | Name- Others: Akinniranye | Location: Abuja | Location2: Abuja | Position: Clinical Services Associate, Adolescents & Young People | Staff\_id: CIHPNG24/369 | Grant Project: IRIS | Supervisor: Oluwatosin Oladokun | Date of Employment: NaN
+RECORD: S/N: 283 | Name of Staff: Etini | Name- Others: Ukanide | Location: Kaduna | Location2: Kaduna | Position: Laboratory Services Associate | Staff\_id: CIHPNG24/387 | Grant Project: IRIS | Supervisor: Sandra Thomas | Date of Employment: NaN
+RECORD: S/N: 284 | Name of Staff: Oluwatobiloba | Name- Others: Adeoye | Location: Lagos | Location2: Lagos | Position: Clinical Services Associate, Adult ART | Staff\_id: CIHPNG24/382 | Grant Project: IRIS | Supervisor: Christian Etuk | Date of Employment: NaN
+RECORD: S/N: 285 | Name of Staff: Clifford | Name- Others: Modey | Location: Kogi | Location2: Ankpa | Position: Clinical Services Associate, PMTCT | Staff\_id: CIHPNG24/391 | Grant Project: IRIS | Supervisor: Makper Stanley | Date of Employment: NaN
+RECORD: S/N: 286 | Name of Staff: Hanniel | Name- Others: Beresibo | Location: Abuja | Location2: Abuja | Position: Compliance Assistant | Staff\_id: CIHPNG24/380 | Grant Project: IRIS | Supervisor: Janet Taiwo | Date of Employment: NaN
+RECORD: S/N: 287 | Name of Staff: Elijah | Name- Others: James Wida | Location: Kaduna | Location2: Kaduna | Position: Senior Clinical Services Associate Adult ART | Staff\_id: CIHPNG24/390 | Grant Project: IRIS | Supervisor: Austin- Justine Azahaiwe | Date of Employment: NaN
+RECORD: S/N: 288 | Name of Staff: Tersoo | Name- Others: Shadrach Annor | Location: Abuja | Location2: Abuja | Position: \tSenior Clinical Services Associate; Care and Support | Staff\_id: CIHPNG24/378 | Grant Project: IRIS | Supervisor: Anthony Onwegbusi | Date of Employment: NaN
+RECORD: S/N: 289 | Name of Staff: Miranda | Name- Others: Patrick Maria | Location: Kaduna | Location2: Kafanchan | Position: Community Treatment Network Peds and Adolescents | Staff\_id: CIHPNG24/392 | Grant Project: IRIS | Supervisor: Iniobong Usanga | Date of Employment: NaN
+RECORD: S/N: 290 | Name of Staff: David | Name- Others: Taiwo Orimoloye | Location: Kogi | Location2: Anyigba | Position: Senior Associate Clinical Services Adult ART | Staff\_id: CIHPNG24/394 | Grant Project: IRIS | Supervisor: Lawrencia Inyamah | Date of Employment: NaN
+RECORD: S/N: 291 | Name of Staff: Eneh | Name- Others: Kinsley Kelvin | Location: Kogi | Location2: Okene | Position: Clinical Services Officer Adult ART | Staff\_id: CIHPNG24/393 | Grant Project: IRIS | Supervisor: Lawrencia Inyama | Date of Employment: NaN
+RECORD: S/N: 292 | Name of Staff: Salami | Name- Others: Oluwakemi | Location: Lagos | Location2: Alimosho | Position: SI Assistant | Staff\_id: CIHPNG24/395 | Grant Project: IRIS | Supervisor: Idowu Oluwashola | Date of Employment: NaN
+RECORD: S/N: 293 | Name of Staff: Chinenye | Name- Others: Adeyemo | Location: Kaduna | Location2: Kaduna | Position: Clinical Services Associate - Care & Treatment | Staff\_id: CIHPNG24/398 | Grant Project: IRIS | Supervisor: Adamu Micheal | Date of Employment: NaN
+RECORD: S/N: 294 | Name of Staff: Adedokun | Name- Others: Adewale | Location: Lagos | Location2: Epe | Position: Program Assistant | Staff\_id: CIHPNG/24/422 | Grant Project: IRIS | Supervisor: Osaremwanta Omokaro | Date of Employment: NaN
+RECORD: S/N: 297 | Name of Staff: Peter | Name- Others: Agada | Location: Lagos | Location2: Epe | Position: Senior Associate Pharmaceutical Care and Logistics | Staff\_id: CIHPNG/24/418 | Grant Project: IRIS | Supervisor: Osaremwanta Omokaro | Date of Employment: NaN
+RECORD: S/N: 298 | Name of Staff: Femi | Name- Others: Lawrence Oyinbo | Location: Lagos | Location2: Lagos | Position: Prevention Services Officer | Staff\_id: CIHPNG/24/421 | Grant Project: IRIS | Supervisor: Oluwaseun Adesanya | Date of Employment: NaN
+RECORD: S/N: 299 | Name of Staff: Nwanchor | Name- Others: Chinedu | Location: Kogi | Location2: Anyigba | Position: Laboratory Services Associate | Staff\_id: CIHPNG24/412 | Grant Project: IRIS | Supervisor: Musa Ezekiel | Date of Employment: NaN
+RECORD: S/N: 300 | Name of Staff: Chinedu | Name- Others: Egbogu | Location: Kaduna | Location2: Kaduna | Position: Strategic Information Assistant | Staff\_id: CIHPNG/24/420 | Grant Project: IRIS | Supervisor: Rose Ibanichuka | Date of Employment: NaN
+RECORD: S/N: 301 | Name of Staff: Michael | Name- Others: Omobhude | Location: Abuja | Location2: Abuja | Position: Program Associate - Technical | Staff\_id: CIHPNG24/404 | Grant Project: IRIS | Supervisor: Tolulope Ariyo | Date of Employment: NaN
+RECORD: S/N: 302 | Name of Staff: Tionsha | Name- Others: Emmanuel Terna | Location: Abuja | Location2: Abuja | Position: Compliance Officer | Staff\_id: CIHPNG24/403 | Grant Project: IRIS | Supervisor: Janet Taiwo | Date of Employment: NaN
+RECORD: S/N: 303 | Name of Staff: Olushola | Name- Others: Abimbola | Location: Lagos | Location2: Lagos | Position: Front Desk/Administrative Clerk | Staff\_id: CIHPNG24/414 | Grant Project: IRIS | Supervisor: Elizabeth Adewole | Date of Employment: NaN
+RECORD: S/N: 304 | Name of Staff: Adedeji | Name- Others: Adedayo | Location: Abuja | Location2: Abuja | Position: Senior Associate, Information Technology | Staff\_id: CIHPNG24/410 | Grant Project: IRIS | Supervisor: Samaila Yusuf | Date of Employment: NaN
+RECORD: S/N: 305 | Name of Staff: Ufuoma | Name- Others: Akpisheri | Location: Abuja | Location2: Abuja | Position: Human Resources Associate | Staff\_id: CIHPNG24/405 | Grant Project: IRIS | Supervisor: Arubi Hope | Date of Employment: NaN
+RECORD: S/N: 306 | Name of Staff: Deikola | Name- Others: Kazeem Olalekan | Location: Lagos | Location2: Lagos | Position: Compliance Associate | Staff\_id: CIHPNG24/408 | Grant Project: IRIS | Supervisor: Oluwaseun Adesanya | Date of Employment: NaN
+RECORD: S/N: 307 | Name of Staff: Yemisi | Name- Others: Bidemi Olaniyan | Location: Abuja | Location2: Abuja | Position: Program Assistant Grant | Staff\_id: CIHPNG24/406 | Grant Project: IRIS | Supervisor: Michael Omobhude | Date of Employment: NaN
+RECORD: S/N: 308 | Name of Staff: Asema | Name- Others: Muktar | Location: Kogi | Location2: Kogi | Position: Compliance Associate | Staff\_id: CIHPNG24/409 | Grant Project: IRIS | Supervisor: Bernard Akpa | Date of Employment: NaN
+RECORD: S/N: 309 | Name of Staff: Aliyu | Name- Others: Shehu Usman | Location: Kaduna | Location2: Kaduna | Position: Compliance Associate | Staff\_id: CIHPNG24/417 | Grant Project: IRIS | Supervisor: Sannom Hayab | Date of Employment: NaN
+RECORD: S/N: 310 | Name of Staff: Nkem | Name- Others: Okere Blessing | Location: Lagos | Location2: Lagos | Position: Clinical Services Associate, P & A, PMTCT | Staff\_id: CIHPNG24/415 | Grant Project: IRIS | Supervisor: Christian Etuk | Date of Employment: NaN
+RECORD: S/N: 311 | Name of Staff: Osho | Name- Others: Temitayo Adenike | Location: Lagos | Location2: Lagos | Position: Program Assistant | Staff\_id: CIHPNG24/416 | Grant Project: IRIS | Supervisor: Idowu Oluwashola | Date of Employment: NaN
+RECORD: S/N: 312 | Name of Staff: Amani | Name- Others: Dangyara | Location: Kaduna | Location2: Kaduna | Position: SI Assistant | Staff\_id: CIHPNG24/407 | Grant Project: IRIS | Supervisor: Joy Agada | Date of Employment: NaN
+RECORD: S/N: 314 | Name of Staff: Inyang | Name- Others: Ayo | Location: Abuja | Location2: Abuja | Position: Deputy Director Clinical Services | Staff\_id: CIHPNG/24/419 | Grant Project: IRIS | Supervisor: Francis Ogirima | Date of Employment: NaN
+RECORD: S/N: 315 | Name of Staff: Ruth | Name- Others: Yahaya Musa | Location: Kaduna | Location2: Kaduna | Position: Senior Clinical Services Officer Care and Treatment | Staff\_id: CIHPNG25/432 | Grant Project: IRIS | Supervisor: Austin- Justine Azahaiwe | Date of Employment: NaN
+RECORD: S/N: 316 | Name of Staff: Noel | Name- Others: Ochaba Sani | Location: Kogi | Location2: Kogi | Position: Laboratory Services Associate | Staff\_id: CIHPNG25/433 | Grant Project: IRIS | Supervisor: Taiwo Orimoloye | Date of Employment: NaN
+RECORD: S/N: 317 | Name of Staff: Gabriel | Name- Others: Onyejemuo | Location: Abuja | Location2: Abuja | Position: Pharmacy Associate | Staff\_id: CIHPNG24/431 | Grant Project: IRIS | Supervisor: Ikeoluwa Abobarin | Date of Employment: NaN
+RECORD: S/N: 318 | Name of Staff: Jethro | Name- Others: Wunukhen | Location: Kogi | Location2: Kogi | Position: Senior Clinical Services Officer Care and Treatment | Staff\_id: CIHPNG25/434 | Grant Project: IRIS | Supervisor: Lawrencia Inyama | Date of Employment: NaN
+RECORD: S/N: 321 | Name of Staff: Fajimi | Name- Others: Adekunle | Location: Lagos | Location2: Etiosa | Position: Program Assistant | Staff\_id: CIHPNG24/437 | Grant Project: IRIS | Supervisor: Opeyemi Awujoola | Date of Employment: NaN
+RECORD: S/N: 322 | Name of Staff: Mbah | Name- Others: Linda | Location: Kogi | Location2: Ayingba | Position: Clinical Services Associate - PMTCT | Staff\_id: CIHPNG25/438 | Grant Project: IRIS | Supervisor: Taiwo Orimoloye | Date of Employment: NaN
+RECORD: S/N: 323 | Name of Staff: Emmanuel | Name- Others: Usikpo | Location: Lagos | Location2: Mushin | Position: Pharmacy Assistant | Staff\_id: CIHPNG24/439 | Grant Project: IRIS | Supervisor: Patrick Fauga | Date of Employment: NaN
+RECORD: S/N: 324 | Name of Staff: Adegboro | Name- Others: Segun | Location: Lagos | Location2: Ikeja | Position: IT Assistant | Staff\_id: CIHPNG24/440 | Grant Project: IRIS | Supervisor: Oluwaseun Oseni | Date of Employment: NaN
+RECORD: S/N: 325 | Name of Staff: Olubusayo | Name- Others: Nkemjika | Location: Lagos | Location2: Ikeja | Position: AEARI Project Lead | Staff\_id: CIHPNG24/374 | Grant Project: AEARI | Supervisor: Oluwabunmi Adesanya | Date of Employment: NaN
+RECORD: S/N: 326 | Name of Staff: Oluwatoyin | Name- Others: Finnih | Location: Lagos | Location2: Ikeja | Position: Senior Associate HSS | Staff\_id: CIHPNG24/375 | Grant Project: AEARI | Supervisor: Olubusayo Nkemjika | Date of Employment: NaN
+RECORD: S/N: 327 | Name of Staff: Issac | Name- Others: Adedeji | Location: Lagos | Location2: Ikeja | Position: Senior Associate SI M&E | Staff\_id: CIHPNG24/376 | Grant Project: AEARI | Supervisor: Olubusayo Nkemjika | Date of Employment: NaN
+RECORD: S/N: 328 | Name of Staff: Precious | Name- Others: Alabi | Location: Lagos | Location2: Ikeja | Position: Finance Assisant | Staff\_id: CIHPNG24/429 | Grant Project: AEARI | Supervisor: Olubusayo Nkemjika | Date of Employment: NaN
+RECORD: S/N: 329 | Name of Staff: Monica | Name- Others: Keji-Adodeji | Location: Lagos | Location2: Ikeja | Position: Senior Finance Associate | Staff\_id: CIHPNG24/373 | Grant Project: AEARI | Supervisor: Olubusayo Nkemjika | Date of Employment: NaN
+RECORD: S/N: 330 | Name of Staff: Wilfred | Name- Others: Khotpenan Sikhibis | Location: Lagos | Location2: Ikeja | Position: Sexual Violence Prevenion Associate | Staff\_id: CIHPNG24/423 | Grant Project: AEARI | Supervisor: Olubusayo Nkemjika | Date of Employment: NaN
+RECORD: S/N: 331 | Name of Staff: Hafsah | Name- Others: Osuwa | Location: Abuja | Location2: Abuja | Position: Clinical Services Associate Care & Treatment | Staff\_id: CIHPNG24/401 | Grant Project: I4HIV | Supervisor: Osagie Omokhomion | Date of Employment: NaN
+RECORD: S/N: 332 | Name of Staff: Illiya | Name- Others: Maigari | Location: Abuja | Location2: Abuja | Position: Program Associate Reseach, M& E& QI | Staff\_id: CIHPNG24/411 | Grant Project: I4HIV | Supervisor: Osagie Omokhomion | Date of Employment: NaN

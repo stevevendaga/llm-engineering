@@ -321,3 +321,11 @@ See materials-python-markitdown for more details.
 8. Hierarchical: Summarizing at multiple levels with LLM.
 9. Graph RAG: Retrieving content related to similar documents.
 10. Agentic RAG: Using agents for retrieval, integrating memory and tools like SQL.
+
+=>> Fine-tuning LLMs:
+
+Curating datasets
+Data is typically divided into 3 datasets
+1. Training Data
+2. Validation Data
+3. Test Data
