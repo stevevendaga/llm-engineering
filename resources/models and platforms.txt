@@ -329,3 +329,100 @@ Data is typically divided into 3 datasets
 1. Training Data
 2. Validation Data
 3. Test Data
+
+=>> Five step strategy for selecting, training and applying an LLM
+
+1. Understand the problem
+2. Prepare
+3. Select
+4. Customize
+5. Productionize
+
+>> Understand
+- Gather business requirements
+- Identify performance criteria
+- understand the data: quantity, quality, format
+- Determine non-functionals
+ Cost, scalability, latency
+
+>> Prepare
+- Research existing/non-LLM solutions - Potential baseline model
+- Compare relevant LLMs
+ The basics, context length, price, license, leaderboards, benchmarks
+- Curate data
+
+>> Select
+- Choose LLM (s)
+- Experiment
+- Train and validate with curated data
+
+>> Customize
+Four techniques to optimize the performance of the model
+
+> Inference Time
+1. Prompt (e.g multi-shot prompting)
+2. RAG
+3. Agents
+
+> Training Time
+4. Fine-tune
+
+> Fine tuning is basically teaching a model to generalized. To generate data it has not seen before
+> RAG is good for knowledge based expertise
+
+>> Productionize
+- Determine API between model and platform(s)
+- Identify model hosting and deployment architecture
+- Address scaling, monitoring, security, compliance, observability
+- Evals: measure the business-focused metrics
+- Continuously retrain and measure performance
+
+=>> Four steps of Training
+Tweaking the parameters of a model based on training data in a way that should generalize to unseen data
+1. Forward pass: Predict the output given inputs
+2. Loss calculation: How different was the prediction to the ground truth
+3. Backward pass: How should we tweak parameters to do better next time (the "gradients")
+4. Optimization: Update parameters a tiny step to do better next time
+
+You can specify additional settings that aren't updated during training known as hyper-parameters like epoch and learning rate.
+
+=>> Fine-Tuning
+Three Stages to Fine-Tuning with OpenAI
+Documentation
+platform.openai.com - Model Optimization - Fine-tuning
+1. Supervised fine-tuning
+2. Direct preference optimization (DPO)
+3. Reinforcement fine-tuning (RFT)
+platform.openai.com/fine-tune
+
+Key objectives of fine-tuning for frontier models
+1. setting style or tone in a way that can't be achieved with prompting
+2. improving the reliability of producing a type of output
+3. correcting failures to follow complex prompts
+4. handling edge cases
+5. performing a new skill or task that's hard to articulate in a prompt
+
+Fine-tune open-source LLM
+=>> Introduction to LoRA & QLoRA for Fine-Tuning
+High level explanation of LoRA (Low Rank Adaptor)
+Step 1: Freeze the weights - we will not optimize them
+Step 2: Select some layers to target, called "Target Modules"
+Step 3: Create new "adaptor" matrices with lower dimensions, fewer parameters
+Step 4: Apply these "adaptors" to the Target Modules to adjust them - and these get trained
+There are two LoRA matrices that get applied
+LoRA_a and LoRA_b (LoRA_a x LoRA_b to get a big matrix)
+Finally you will fine-time smaller matrices
+
+=> Three essential Hyperparameters for LoRA fine-tuning
+1. r - the rank, or how many dimensions in the low-rank matrices. Start with 8, then double to 16, then 32, until diminishing returns
+2. Alpha - a scaling factor that multiplies the lower rank matrices. Twice the value of r.
+3. Target Modules - which layers of the neural network are adapted. Start by targeting the attention heads
+
+=> QLoRA (Quantization - the Q in QLoRA)
+Keep the number of weights but reduce their precision
+>> Reduce to 8 bits, or even to 4 bits
+
+Note:
+1. 4 bits are interpreted as float, not int
+2.You are quantizing the base model. The adaptor matrices (LoRA) are still 32 bit
+>>> bitsandbytes a package that deals with quantization
