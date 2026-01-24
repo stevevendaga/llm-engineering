@@ -437,5 +437,17 @@ Five Important Hyper-parameters for QLoRA
 2. r (LoRA rank) - The number of parameters in the LoRA matrix. It is usually set to 4 or 8.
 3. alpha (LoRA alpha) - The scaling factor for the LoRA matrix. It is usually set to 16.
 4. Quantization - The number of bits to quantize the base model.
-5. dropout (LoRA dropout) - The dropout rate for the LoRA matrix. It is usually set to 10%.
+5. Dropout (LoRA dropout) - The dropout rate for the LoRA matrix. It is usually set to 10%.
 
+Five Important Hyper-parameters for Training
+1. Epochs  - The number of times to iterate through the dataset.
+2. Batch Size - How many data to process in a batch. The number of samples to process at once.
+    Usually in powers of 2 e. 2, 4, 8, 16 ...
+3. Learning Rate - The step size used to update the model parameters during training.
+4. Gradient accumulation - A technique used to prevent exploding gradients.
+5. Optimizer - The algorithm used to update the model parameters based on the gradients.
+    Adam - A popular optimizer that uses the first and second moments of the gradients to update the model parameters.
+    SGD - A simple optimizer that updates the model parameters based on the gradients.
+    RMSprop - A variant of the Adam optimizer that uses a moving average of the squared gradients to update the model parameters.
+    Adagrad - A variant of the SGD optimizer that uses a learning rate that decreases with the number of iterations.
+    Adadelta - A variant of the Adagrad optimizer that uses
