@@ -426,3 +426,16 @@ Note:
 1. 4 bits are interpreted as float, not int
 2.You are quantizing the base model. The adaptor matrices (LoRA) are still 32 bit
 >>> bitsandbytes a package that deals with quantization
+
+Two types of models
+1. Base models - trained to predict the next token given an input
+2. Chat models or instruct variant
+
+Five Important Hyper-parameters for QLoRA
+1. Target Modules - which layers of the nueral network of the LoRA to target
+    Mostly to the attention layers
+2. r (LoRA rank) - The number of parameters in the LoRA matrix. It is usually set to 4 or 8.
+3. alpha (LoRA alpha) - The scaling factor for the LoRA matrix. It is usually set to 16.
+4. Quantization - The number of bits to quantize the base model.
+5. dropout (LoRA dropout) - The dropout rate for the LoRA matrix. It is usually set to 10%.
+
