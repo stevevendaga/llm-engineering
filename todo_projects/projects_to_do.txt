@@ -1,4 +1,7 @@
-1. Develop an AI assistant (Knowledge worker) for CIHP for Job Aids, SOP, NMRS troubleshooting tips, best practices 
+1. ChatGPT with gradio - Multi-modal, text-summarization, NotebookLM features, Image generation and others
+2. AI assistant for a particular product or company or a dynamic AI assistant - load data to the model as much as you can then the assistant will be able to answer any question using named entity recognition and other techniques
+
+3 RAG: Develop an AI assistant (Knowledge worker) for CIHP for Job Aids, SOP, NMRS troubleshooting tips, best practices 
     - Create interface to upload resources to database
     - FASTAPI to return results from database
     - AI chatinterface
@@ -8,8 +11,35 @@
     -->>> Project name: CIHP KLM
     ->>>> Convert PDF, word docs to Markdown which LLM are good at
 
-2. Develop a Descript like app for text to speech using own voice
+4. Develop a Descript like app for text to speech using own voice
+5. Meeting minutes using open source model Llama
 
-3. Develop a dynamic AI assistant - load data to the model as much as you can then the assistant will be able to answer any question using named entity recognition and other techniques
+==> Intro to Agentic AI & Serverless Deployment on Modal
+Definitions of Agents
 
-4. Meeting minutes using open source model Llama
+1. AI systems that can do work for you independently.
+2. AI systems where an LLM controls the workflow
+3. An Agent that runs Tools in a Loop to achieve a goal
+
+>> Agent Architecture
+Focus on the business problem
+
+>> To build this week
+1. Scanner Agent - identifies promosing deals
+2. Ensemble Agent - Estimates prices using multiple models
+3. Messaging Agent - sends push notifications
+4. Planning Agent - coordinates activities
+5. The Agent Framework - with memory and logging
+6. The UI - in Gradio
+
+Agents Frameworks
+
+CrewAI
+OpenAI SDK
+Google SDK
+LanGraph
+
+==> Modal -  the serverless AI platform
+modal.com - sign up
+
+
