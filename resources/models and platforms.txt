@@ -453,3 +453,33 @@ Five Important Hyper-parameters for Training
     Adadelta - A variant of the Adagrad optimizer that uses
 
 TRL = Transformers Reinforcement Learning
+
+==> Intro to Agentic AI & Serverless Deployment on Modal
+Definitions of Agents
+
+1. AI systems that can do work for you independently.
+2. AI systems where an LLM controls the workflow
+3. An Agent that runs Tools in a Loop to achieve a goal
+
+>> Agent Architecture
+Focus on the business problem
+
+>> To build this week
+1. Scanner Agent - identifies promosing deals
+2. Ensemble Agent - Estimates prices using multiple models
+3. Messaging Agent - sends push notifications
+4. Planning Agent - coordinates activities
+5. The Agent Framework - with memory and logging
+6. The UI - in Gradio
+
+Agents Frameworks
+
+CrewAI
+OpenAI SDK
+Google SDK
+LanGraph
+
+==> Modal -  the serverless AI platform
+modal.com - sign up
+
+
